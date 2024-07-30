@@ -37,4 +37,4 @@ VNP_TMNCODE VNP_HASHSECRET VNP_URL VNP_API VNP_RETURN_URL (configuration for VNP
 
 ```bash
   npm run start
-```.
+```
