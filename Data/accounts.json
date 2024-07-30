@@ -1,0 +1,406 @@
+{
+    "_id" : ObjectId("655319c0a00a97606cc8fdfb"),
+    "name" : "admin@themesbrand.com",
+    "email" : "admin@themesbrand.com",
+    "password" : "$2a$10$633fyUa7vpNeLEsOCtxtP.z4kI/Z9PA8fL9HpdyMCl7mGCvBNb3.K",
+    "role" : "admin",
+    "__v" : NumberInt(57),
+    "cart" : ObjectId("661be9f6e8bd3ef3383ac45e"),
+    "orders" : [
+        ObjectId("6660632e75e5cf43b62613c1"),
+        ObjectId("6660683e75e5cf43b6262eae"),
+        ObjectId("66607e5575e5cf43b6264f42"),
+        ObjectId("6672da2c5ee80f657774a9aa"),
+        ObjectId("6683a58b078c4ff5b622532d"),
+        ObjectId("668661f2046f86b9e896099c"),
+        ObjectId("6686626a046f86b9e8960c2f"),
+        ObjectId("668664b8046f86b9e8961650"),
+        ObjectId("66874d25a79e05b643268fe9"),
+        ObjectId("66874d55a79e05b6432692ae"),
+        ObjectId("66874d6ca79e05b643269505"),
+        ObjectId("66939979387725e9ac5f7c7e"),
+        ObjectId("66939994387725e9ac5f7f1a"),
+        ObjectId("669399a1387725e9ac5f8194"),
+        ObjectId("669399ab387725e9ac5f8415"),
+        ObjectId("669248fe387725e9ac5f912f"),
+        ObjectId("66924909387725e9ac5f9428")
+    ],
+    "addresses" : [
+        ObjectId("663737600a9e3f96f9b61e0e")
+    ],
+    "createDate" : "Dec 14, Thu 21:37:43",
+    "modifyDate" : "19:36 14/07/2024",
+    "status" : "active",
+    "reviews" : [
+        ObjectId("6660638275e5cf43b62615a4"),
+        ObjectId("6660663375e5cf43b62615e9"),
+        ObjectId("6660664375e5cf43b626162b"),
+        ObjectId("6660665875e5cf43b626166e"),
+        ObjectId("6660666475e5cf43b62616b4"),
+        ObjectId("6660667075e5cf43b62616fb"),
+        ObjectId("6660668175e5cf43b6261743"),
+        ObjectId("6660669275e5cf43b626178c"),
+        ObjectId("666066a475e5cf43b62617d6"),
+        ObjectId("666066b175e5cf43b6261821"),
+        ObjectId("66606c8075e5cf43b626304a"),
+        ObjectId("66606c8f75e5cf43b6263099"),
+        ObjectId("66606cc975e5cf43b62630e9"),
+        ObjectId("66606cd975e5cf43b626313a"),
+        ObjectId("66606cf175e5cf43b626318a"),
+        ObjectId("66606d1c75e5cf43b62631dd"),
+        ObjectId("66606d2c75e5cf43b6263231"),
+        ObjectId("66606d4675e5cf43b6263286"),
+        ObjectId("66606d6275e5cf43b626332b"),
+        ObjectId("66606d7175e5cf43b6263382"),
+        ObjectId("66606e5375e5cf43b62633da"),
+        ObjectId("66607ea475e5cf43b62650e5"),
+        ObjectId("66607f3d75e5cf43b626513f"),
+        ObjectId("66607f5675e5cf43b626519a"),
+        ObjectId("66607f6b75e5cf43b62651f6"),
+        ObjectId("66607f7a75e5cf43b6265253"),
+        ObjectId("66607f8c75e5cf43b62652b1"),
+        ObjectId("66607f9675e5cf43b6265310"),
+        ObjectId("66607fad75e5cf43b6265370"),
+        ObjectId("66607fbb75e5cf43b62653cf"),
+        ObjectId("66607fc875e5cf43b6265431")
+    ],
+    "vipStatus" : {
+        "level" : ObjectId("666949bac06dab295e8ed7ca"),
+        "points" : NumberInt(51324)
+    },
+    "vouchers" : [
+        ObjectId("666d3766f9e01889b8105ec0"),
+        ObjectId("6672daa15ee80f657774ab99"),
+        ObjectId("66694c7dc06dab295e8ed7d5"),
+        ObjectId("66694cd2c06dab295e8ed7e4")
+    ]
+}
+{
+    "_id" : ObjectId("6568b554b967331ea4e12651"),
+    "name" : "Phan Hoàng Khải",
+    "email" : "khaikhai331@gmail.com",
+    "password" : "$2a$10$0yZhdKSDj6YuYtX8wszgZusmpM5mdRFtwIzpH7hVQtEo4K4nLTDae",
+    "role" : "admin",
+    "orders" : [
+        ObjectId("667e80af41f78b6ddb627c36"),
+        ObjectId("667e81d441f78b6ddb628b99"),
+        ObjectId("667e832341f78b6ddb629646"),
+        ObjectId("6690f881387725e9ac5fb52f"),
+        ObjectId("6690f8a1387725e9ac5fb7e4")
+    ],
+    "__v" : NumberInt(9),
+    "cart" : ObjectId("667e7fc041f78b6ddb627606"),
+    "addresses" : [
+        ObjectId("667e80a841f78b6ddb627b7e")
+    ],
+    "createDate" : "Dec 14, Thu 21:37:34",
+    "modifyDate" : "19:36 14/07/2024",
+    "status" : "active",
+    "resetPasswordExpire" : ISODate("2024-05-13T02:46:49.344+0000"),
+    "resetPasswordToken" : "a0afbad3048ae91ed5d1121a455fa854876d67b10322451ce88545793979f664",
+    "reviews" : [
+
+    ],
+    "vipStatus" : {
+        "level" : ObjectId("666949bac06dab295e8ed7ca"),
+        "points" : NumberInt(18208)
+    },
+    "vouchers" : [
+        ObjectId("666d1ec8f9e01889b8105d20")
+    ]
+}
+{
+    "_id" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "name" : "khaixrkyz@gmail.com",
+    "email" : "khaixrkyz@gmail.com",
+    "password" : "$2a$10$tfgrz4xxtW8vY81ACfJH/ufny8SJ0z0ITcjc/jzhgT2fATLs28Kwy",
+    "role" : "employee",
+    "orders" : [
+        ObjectId("667d325d41f78b6ddb629fe8"),
+        ObjectId("667d34b641f78b6ddb62a501"),
+        ObjectId("667d34d641f78b6ddb62a5e3"),
+        ObjectId("667d360641f78b6ddb62afdc"),
+        ObjectId("6683a5ff078c4ff5b6225ee6"),
+        ObjectId("66855f7b30b1c388ae38560d")
+    ],
+    "addresses" : [
+        ObjectId("66328ca13d911bdff4767c14"),
+        ObjectId("66328cb43d911bdff476853a"),
+        ObjectId("663294003d911bdff4768f75"),
+        ObjectId("66331033c6d859f6c2e687e2"),
+        ObjectId("66335147ab430a0d6728a08e")
+    ],
+    "status" : "active",
+    "createDate" : "Dec 9, Sat 20:19:33",
+    "modifyDate" : "19:36 14/07/2024",
+    "__v" : NumberInt(30),
+    "cart" : ObjectId("663317b41b91ce350330e048"),
+    "reviews" : [
+
+    ],
+    "vipStatus" : {
+        "level" : ObjectId("6669497cc06dab295e8ed7c5"),
+        "points" : NumberInt(14271)
+    },
+    "vouchers" : [
+        ObjectId("66694cd2c06dab295e8ed7e4"),
+        ObjectId("6672daa15ee80f657774ab99"),
+        ObjectId("66694c7dc06dab295e8ed7d5"),
+        ObjectId("66694b86c06dab295e8ed7d0")
+    ]
+}
+{
+    "_id" : ObjectId("65827d89f05b8964e1b5fb2f"),
+    "name" : "snack oishi tom toms",
+    "email" : "khaikhai332@gmail.com",
+    "password" : "$2a$10$fS91QdiTW7eI144ZtV4Tfu14SwKPc7ggVBon8GL7eXVDmmp9nXIYe",
+    "role" : "user",
+    "orders" : [
+        ObjectId("667eb6c841f78b6ddb62bd15"),
+        ObjectId("667eb72141f78b6ddb62c937"),
+        ObjectId("667578b25ee80f657774982a"),
+        ObjectId("667427b65ee80f6577749ef1")
+    ],
+    "addresses" : [
+        ObjectId("667eb6be41f78b6ddb62bc66")
+    ],
+    "status" : "active",
+    "createDate" : "Dec 20, Wed 12:37:13",
+    "modifyDate" : "19:36 14/07/2024",
+    "__v" : NumberInt(7),
+    "reviews" : [
+
+    ],
+    "vipStatus" : {
+        "level" : ObjectId("6669497cc06dab295e8ed7c5"),
+        "points" : NumberInt(10401)
+    },
+    "vouchers" : [
+        ObjectId("66694b86c06dab295e8ed7d0"),
+        ObjectId("66694cd2c06dab295e8ed7e4")
+    ],
+    "cart" : ObjectId("667eb5ce41f78b6ddb62b833")
+}
+{
+    "_id" : ObjectId("65827f8af05b8964e1b5fb42"),
+    "name" : "Candy",
+    "email" : "khaikhai123@gmail.com",
+    "password" : "$2a$10$Kkjpkfye7D8qyFnhfIIF1.ovrESq7IT8JFzTfuItsguPSRQXVVd72",
+    "role" : "user",
+    "orders" : [
+        ObjectId("6640422612b260530612288c"),
+        ObjectId("664042c812b260530612306c"),
+        ObjectId("6640436d12b2605306123812"),
+        ObjectId("6640549562fee7ce9916debc"),
+        ObjectId("664054d962fee7ce9916df9b"),
+        ObjectId("6640568c62fee7ce9916e743"),
+        ObjectId("6640587962fee7ce9916e99f"),
+        ObjectId("664085a115afa18d8668f4ca"),
+        ObjectId("664085ef15afa18d8668f636"),
+        ObjectId("6640869e15afa18d8668f76c"),
+        ObjectId("664086f115afa18d8668f879"),
+        ObjectId("6640874115afa18d8668faa9"),
+        ObjectId("664087b015afa18d866909dc"),
+        ObjectId("6640889315afa18d86690b08"),
+        ObjectId("664088f715afa18d86690d5b"),
+        ObjectId("6640898715afa18d86691771"),
+        ObjectId("66408a4b15afa18d8669194e"),
+        ObjectId("66408a8e15afa18d86691b35"),
+        ObjectId("66408acd15afa18d86691d2b"),
+        ObjectId("66408b0515afa18d86691ebd"),
+        ObjectId("66408b7115afa18d86693dc7"),
+        ObjectId("66408bb915afa18d86693f29"),
+        ObjectId("6647229fb87073faca579acb")
+    ],
+    "addresses" : [
+        ObjectId("663f0fe86f6f4543249060a6")
+    ],
+    "status" : "active",
+    "createDate" : "Dec 20, Wed 12:45:46",
+    "modifyDate" : "19:36 14/07/2024",
+    "__v" : NumberInt(7),
+    "cart" : ObjectId("663f0fb86f6f454324906019"),
+    "reviews" : [
+
+    ],
+    "vipStatus" : {
+        "level" : ObjectId("666949bac06dab295e8ed7ca"),
+        "points" : NumberInt(52841)
+    },
+    "vouchers" : [
+
+    ]
+}
+{
+    "_id" : ObjectId("663f140bfca411d9ed6aeb63"),
+    "name" : "Sơn Nguyễn",
+    "email" : "sonnguyenhong382@gmail.com",
+    "password" : "$2a$10$jJ93.1Q5wH/NY..3eNt16u.4cbDepCnyWu5nGjrtwVI5o33B6vg/m",
+    "role" : "user",
+    "orders" : [
+        ObjectId("664045ec12b2605306123bf1"),
+        ObjectId("6640468612b2605306123e60"),
+        ObjectId("664048d612b2605306123f91"),
+        ObjectId("6640494b12b2605306124253"),
+        ObjectId("664049e312b26053061244b1"),
+        ObjectId("66404a5112b260530612460e")
+    ],
+    "addresses" : [
+        ObjectId("663f1480fca411d9ed6aef69")
+    ],
+    "reviews" : [
+        ObjectId("664053c862fee7ce9916d405"),
+        ObjectId("6640540662fee7ce9916d495")
+    ],
+    "status" : "active",
+    "createDate" : "13:45 11/05/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "__v" : NumberInt(12),
+    "cart" : ObjectId("663f1463fca411d9ed6aeec9"),
+    "vipStatus" : {
+        "level" : ObjectId("666949bac06dab295e8ed7ca"),
+        "points" : NumberInt(16942)
+    },
+    "vouchers" : [
+
+    ]
+}
+{
+    "_id" : ObjectId("667e7ea541f78b6ddb626ee7"),
+    "name" : "Nguyễn Hoàng Thiên Bảo",
+    "email" : "thienbao2002.dev@gmail.com",
+    "password" : "$2a$10$u3nCaCuoY/cGP.PdPKEb9.yuXhjcuCaJCJSY5VxyLK5bxTcfdCDLG",
+    "role" : "user",
+    "orders" : [
+        ObjectId("665ad664c443bb06ba79ef2a"),
+        ObjectId("665c28743e14fb363151bdaf"),
+        ObjectId("6666b5695ee80f657773a293"),
+        ObjectId("668118da5ee80f657773f0d8"),
+        ObjectId("667a84945ee80f6577741eec"),
+        ObjectId("6679335b5ee80f657774232e")
+    ],
+    "addresses" : [
+        ObjectId("665ad65cc443bb06ba79eeaf")
+    ],
+    "reviews" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "16:13 28/06/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "vipStatus" : {
+        "points" : NumberInt(13934),
+        "level" : ObjectId("6669497cc06dab295e8ed7c5")
+    },
+    "vouchers" : [
+        ObjectId("666d1ec8f9e01889b8105d20")
+    ],
+    "__v" : NumberInt(7),
+    "cart" : ObjectId("665ad617c443bb06ba79ec94")
+}
+{
+    "_id" : ObjectId("667e7ed341f78b6ddb627141"),
+    "name" : "Ngọc Nam",
+    "email" : "ngocnam2002.andanh@gmail.com",
+    "password" : "$2a$10$ibKkyVLU5z70ymYgPgudkeL/Js.bnA5PJ7LXLvl75kwe7QkvP59sG",
+    "role" : "user",
+    "orders" : [
+        ObjectId("666807b35ee80f657773af04"),
+        ObjectId("666807f95ee80f657773b50e"),
+        ObjectId("666959cb5ee80f657773bc71"),
+        ObjectId("667fc66f5ee80f657773dbc4"),
+        ObjectId("667818d85ee80f657774741a"),
+        ObjectId("6676c8575ee80f6577747a7e"),
+        ObjectId("667577a25ee80f6577748542")
+    ],
+    "addresses" : [
+        ObjectId("666807ac5ee80f657773ae6b")
+    ],
+    "reviews" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "16:13 28/06/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "vipStatus" : {
+        "points" : NumberInt(14419),
+        "level" : ObjectId("6669497cc06dab295e8ed7c5")
+    },
+    "vouchers" : [
+
+    ],
+    "__v" : NumberInt(7),
+    "cart" : ObjectId("6666b5dc5ee80f657773a881")
+}
+{
+    "_id" : ObjectId("668268835ee80f657773ca3e"),
+    "name" : "Trần Việt Hà",
+    "email" : "partywithkshmr@gmail.com",
+    "password" : "$2a$10$wamoj.x4YDsEWS53dciiFe9P7NQoEN7l5mC1SNF4Dd3d3LnAcbGxO",
+    "role" : "user",
+    "orders" : [
+        ObjectId("668268ed5ee80f657773cf43"),
+        ObjectId("667bd3b15ee80f657773fe3f"),
+        ObjectId("667bd4cd5ee80f657774089b")
+    ],
+    "addresses" : [
+        ObjectId("668268e55ee80f657773cee6")
+    ],
+    "reviews" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "15:27 01/07/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "vipStatus" : {
+        "points" : NumberInt(13970),
+        "level" : ObjectId("6669497cc06dab295e8ed7c5")
+    },
+    "vouchers" : [
+        ObjectId("66694b86c06dab295e8ed7d0"),
+        ObjectId("66694cd2c06dab295e8ed7e4"),
+        ObjectId("66694c7dc06dab295e8ed7d5"),
+        ObjectId("666d3738f9e01889b8105ebb")
+    ],
+    "__v" : NumberInt(8),
+    "cart" : ObjectId("668268a85ee80f657773ccae")
+}
+{
+    "_id" : ObjectId("6693c002387725e9ac5fbac7"),
+    "name" : "Nguyễn Nam Thành",
+    "email" : "thanhnam2002.blake@gmail.com",
+    "password" : "$2a$10$oCwH8xF0uHSQZnTa10NM2ONmio9A0THlCwn4IKSDtJ0uL0Pmq.ImC",
+    "role" : "user",
+    "orders" : [
+        ObjectId("668fcc05387725e9ac5fc59e"),
+        ObjectId("668e7ac1387725e9ac5fcb5a"),
+        ObjectId("668d2958387725e9ac5fcdd4"),
+        ObjectId("668bd996472b163b2301dd8b"),
+        ObjectId("668a882f472b163b2301dfee"),
+        ObjectId("668a88f5472b163b2301eb13"),
+        ObjectId("66893791472b163b2301eddd"),
+        ObjectId("6689382c472b163b2301fc90"),
+        ObjectId("668938c5472b163b2302087e"),
+        ObjectId("6687e795472b163b23020ff9")
+    ],
+    "addresses" : [
+        ObjectId("668fcbee387725e9ac5fc4b9")
+    ],
+    "reviews" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "19:09 14/07/2024",
+    "modifyDate" : "19:39 14/07/2024",
+    "vipStatus" : {
+        "points" : NumberInt(36916),
+        "level" : ObjectId("666949bac06dab295e8ed7ca")
+    },
+    "vouchers" : [
+        ObjectId("66939809387725e9ac5f6c90"),
+        ObjectId("666d21c5f9e01889b8105d25"),
+        ObjectId("666d3738f9e01889b8105ebb")
+    ],
+    "__v" : NumberInt(11),
+    "cart" : ObjectId("668fcba2387725e9ac5fbfc9")
+}

@@ -1,0 +1,44 @@
+{
+    "_id" : ObjectId("655319c0a00a97606cc8fdfb"),
+    "name" : "admin@themesbrand.com",
+    "email" : "admin@themesbrand.com",
+    "password" : "$2a$10$633fyUa7vpNeLEsOCtxtP.z4kI/Z9PA8fL9HpdyMCl7mGCvBNb3.K",
+    "role" : "admin",
+    "__v" : NumberInt(0),
+    "cart" : ObjectId("65674b526b3cbf93a8796604"),
+    "orders" : [
+        ObjectId("65701e6144a5bc7832004089")
+    ]
+}
+{
+    "_id" : ObjectId("6568b554b967331ea4e12651"),
+    "name" : "Phan Hoàng Khải",
+    "email" : "khaikhai331@gmail.com",
+    "password" : "$2a$10$0yZhdKSDj6YuYtX8wszgZusmpM5mdRFtwIzpH7hVQtEo4K4nLTDae",
+    "role" : "admin",
+    "orders" : [
+        ObjectId("65698e53274fa62a1fcc1cdd"),
+        ObjectId("656ccf928412b397955ed310"),
+        ObjectId("656f06f5f8c3680a270d8970"),
+        ObjectId("656f074ff8c3680a270d899b"),
+        ObjectId("656f5e66f8c3680a270d8d1e"),
+        ObjectId("6572c731a352d585353c292b")
+    ],
+    "__v" : NumberInt(0),
+    "cart" : ObjectId("6568b57ab967331ea4e1265a")
+}
+{
+    "_id" : ObjectId("6573dd74bc8a434ba0795402"),
+    "name" : "khaixrkyz@gmail.com",
+    "email" : "khaixrkyz@gmail.com",
+    "password" : "$2a$10$XbrIOvHTLNeIie8uQHH51uQLcwz.PmQskx/SRNCoVYmD.MoJX8RJi",
+    "role" : "user",
+    "orders" : [
+
+    ],
+    "addresses" : [
+
+    ],
+    "status" : "active",
+    "__v" : NumberInt(0)
+}

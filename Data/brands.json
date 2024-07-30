@@ -1,0 +1,139 @@
+{
+    "_id" : ObjectId("655af049b2c94ecdf50908f9"),
+    "name" : "NO BRAND",
+    "createDate" : "Nov 20, Mon 12:36:09",
+    "modifyDate" : "Nov 20, Mon 12:36:09",
+    "products" : [
+        ObjectId("664372b85760504a00314b5c"),
+        ObjectId("6644272122bd171d1209fda8"),
+        ObjectId("6644696aebe9fee4afdf5fcf"),
+        ObjectId("6644b34bebe9fee4afdf7dce"),
+        ObjectId("6644ba55ebe9fee4afdf9f4e"),
+        ObjectId("6644bb93ebe9fee4afdf9fa0"),
+        ObjectId("6644bc9debe9fee4afdfad26"),
+        ObjectId("6646c4e29f332a40d4faa098"),
+        ObjectId("6646c6679f332a40d4faa112"),
+        ObjectId("6646c7669f332a40d4faa18d"),
+        ObjectId("664707d09f332a40d4fad609"),
+        ObjectId("664708149f332a40d4fad663"),
+        ObjectId("66470d089f332a40d4faef2f"),
+        ObjectId("662775f0c74e6f03cb7a5fe5"),
+        ObjectId("662774c7c74e6f03cb7a5fad"),
+        ObjectId("662773d7c74e6f03cb7a5f77"),
+        ObjectId("66276e47c74e6f03cb7a5f0b"),
+        ObjectId("66276733c74e6f03cb7a5e0c"),
+        ObjectId("662b53e4ad72006e8eca83db"),
+        ObjectId("6627ba47ff7b4200a8a05078")
+    ],
+    "__v" : NumberInt(74),
+    "name_slug" : "no-brand"
+}
+{
+    "_id" : ObjectId("6626586edb0842b04b3549e6"),
+    "name" : "Disney",
+    "createDate" : "19:30 22/04/2024",
+    "modifyDate" : "19:30 22/04/2024",
+    "products" : [
+        ObjectId("664362da5760504a00312b3b"),
+        ObjectId("6644191f22bd171d1209d2d3"),
+        ObjectId("664706729f332a40d4fac989"),
+        ObjectId("66471e7c9e5b7f9710d0538d"),
+        ObjectId("664720559e5b7f9710d0547b"),
+        ObjectId("664376625760504a0031590b"),
+        ObjectId("66271aa4c74e6f03cb7a5c94"),
+        ObjectId("66265bd6db0842b04b3549e9"),
+        ObjectId("66276a20c74e6f03cb7a5e68"),
+        ObjectId("66276564c74e6f03cb7a5dd4"),
+        ObjectId("662761f5c74e6f03cb7a5d96"),
+        ObjectId("662b5528ad72006e8eca8603"),
+        ObjectId("6627b3d1c74e6f03cb7a6080")
+    ],
+    "__v" : NumberInt(15),
+    "name_slug" : "disney"
+}
+{
+    "_id" : ObjectId("66265dd4db0842b04b354aed"),
+    "name" : "Marvel",
+    "createDate" : "19:53 22/04/2024",
+    "modifyDate" : "19:53 22/04/2024",
+    "products" : [
+        ObjectId("66441d8b22bd171d1209e0b7"),
+        ObjectId("66441eb422bd171d1209e11a"),
+        ObjectId("6644209022bd171d1209e17f"),
+        ObjectId("664421ea22bd171d1209ef4b"),
+        ObjectId("6646cacf9f332a40d4faaf35"),
+        ObjectId("662727bfc74e6f03cb7a5d2e"),
+        ObjectId("6626639cdb0842b04b354b83")
+    ],
+    "__v" : NumberInt(7),
+    "name_slug" : "marvel"
+}
+{
+    "_id" : ObjectId("66267228db0842b04b354c16"),
+    "name" : "Animals",
+    "createDate" : "21:20 22/04/2024",
+    "modifyDate" : "21:20 22/04/2024",
+    "products" : [
+        ObjectId("66435b735760504a00311dae"),
+        ObjectId("6643648b5760504a00312b98"),
+        ObjectId("6644185422bd171d1209d287"),
+        ObjectId("66446806ebe9fee4afdf5f3a"),
+        ObjectId("664468c9ebe9fee4afdf5f82"),
+        ObjectId("664469daebe9fee4afdf601a"),
+        ObjectId("6644af6debe9fee4afdf7cfb"),
+        ObjectId("6644b059ebe9fee4afdf7d70"),
+        ObjectId("66470aed9f332a40d4fad74d"),
+        ObjectId("664419fb22bd171d1209e073"),
+        ObjectId("6627127bc74e6f03cb7a5b2f"),
+        ObjectId("66267320db0842b04b354c19"),
+        ObjectId("662771bac74e6f03cb7a5f41"),
+        ObjectId("66276bd2c74e6f03cb7a5ed5"),
+        ObjectId("662b59ebad72006e8eca8ab2"),
+        ObjectId("6627b1ccc74e6f03cb7a603c")
+    ],
+    "__v" : NumberInt(18),
+    "name_slug" : "animals"
+}
+{
+    "_id" : ObjectId("662715c4c74e6f03cb7a5be5"),
+    "name" : "Sport",
+    "createDate" : "08:58 23/04/2024",
+    "modifyDate" : "08:58 23/04/2024",
+    "products" : [
+        ObjectId("66436f515760504a00313dba"),
+        ObjectId("6644298122bd171d120a30f1"),
+        ObjectId("6644627522bd171d120a3f5a"),
+        ObjectId("6644647222bd171d120a3fc6"),
+        ObjectId("6644a727ebe9fee4afdf6f8e"),
+        ObjectId("6644a847ebe9fee4afdf7011"),
+        ObjectId("6646cc8f9f332a40d4fabc5d"),
+        ObjectId("6647076d9f332a40d4faca08"),
+        ObjectId("66271cf8c74e6f03cb7a5cc9"),
+        ObjectId("6627191cc74e6f03cb7a5c5f"),
+        ObjectId("66271721c74e6f03cb7a5be8"),
+        ObjectId("6627b74dc74e6f03cb7a60b6")
+    ],
+    "__v" : NumberInt(12),
+    "name_slug" : "sport"
+}
+{
+    "_id" : ObjectId("6627bb95ff7b4200a8a050af"),
+    "name" : "ELLE Kids",
+    "createDate" : "20:45 23/04/2024",
+    "modifyDate" : "20:45 23/04/2024",
+    "products" : [
+        ObjectId("664365cf5760504a00312be6"),
+        ObjectId("664366e05760504a00312c41"),
+        ObjectId("66436e265760504a00313d48"),
+        ObjectId("6644262722bd171d1209efb8"),
+        ObjectId("6644619b22bd171d120a3eea"),
+        ObjectId("6646c94b9f332a40d4faaeab"),
+        ObjectId("66471a309e5b7f9710d044cf"),
+        ObjectId("664368bb5760504a00312ca0"),
+        ObjectId("662b5785ad72006e8eca884b"),
+        ObjectId("6627c7d4ff7b4200a8a05105"),
+        ObjectId("6627be02ff7b4200a8a050b2")
+    ],
+    "__v" : NumberInt(11),
+    "name_slug" : "elle-kids"
+}

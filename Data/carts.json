@@ -1,0 +1,97 @@
+{
+    "_id" : ObjectId("661be9f6e8bd3ef3383ac45e"),
+    "user" : ObjectId("655319c0a00a97606cc8fdfb"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(120)
+}
+{
+    "_id" : ObjectId("663317b41b91ce350330e048"),
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "items" : [
+        {
+            "product" : ObjectId("66267320db0842b04b354c19"),
+            "variant1" : ObjectId("66267320db0842b04b354c31"),
+            "variant2" : ObjectId("66267320db0842b04b354c3b"),
+            "quantity" : NumberInt(150),
+            "price" : NumberInt(180000),
+            "_id" : ObjectId("66856d2d30b1c388ae385d96")
+        }
+    ],
+    "total" : NumberInt(27000000),
+    "__v" : NumberInt(41)
+}
+{
+    "_id" : ObjectId("663f0fb86f6f454324906019"),
+    "user" : ObjectId("65827f8af05b8964e1b5fb42"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(81)
+}
+{
+    "_id" : ObjectId("663f1463fca411d9ed6aeec9"),
+    "user" : ObjectId("663f140bfca411d9ed6aeb63"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(59)
+}
+{
+    "_id" : ObjectId("667e7fc041f78b6ddb627606"),
+    "user" : ObjectId("6568b554b967331ea4e12651"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(28)
+}
+{
+    "_id" : ObjectId("667eb5ce41f78b6ddb62b833"),
+    "user" : ObjectId("65827d89f05b8964e1b5fb2f"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(17)
+}
+{
+    "_id" : ObjectId("665ad617c443bb06ba79ec94"),
+    "user" : ObjectId("667e7ea541f78b6ddb626ee7"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(22)
+}
+{
+    "_id" : ObjectId("6666b5dc5ee80f657773a881"),
+    "user" : ObjectId("667e7ed341f78b6ddb627141"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(34)
+}
+{
+    "_id" : ObjectId("668268a85ee80f657773ccae"),
+    "user" : ObjectId("668268835ee80f657773ca3e"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(8)
+}
+{
+    "_id" : ObjectId("668fcba2387725e9ac5fbfc9"),
+    "user" : ObjectId("6693c002387725e9ac5fbac7"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(55)
+}

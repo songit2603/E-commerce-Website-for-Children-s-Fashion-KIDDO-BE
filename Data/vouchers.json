@@ -1,0 +1,441 @@
+{
+    "_id" : ObjectId("66694b86c06dab295e8ed7d0"),
+    "description" : "Giảm 50k cho đơn hàng tối thiểu 600k",
+    "voucherType" : "allUsers",
+    "discountType" : "Cash",
+    "discountValue" : NumberInt(50000),
+    "minPurchase" : NumberInt(600000),
+    "startDate" : "14:16 12/06/2024",
+    "endDate" : "14:17 21/06/2027",
+    "quantity" : NumberInt(92),
+    "isActive" : true,
+    "createDate" : "14:17 12/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/rQ4VnqPLSz.png",
+            "name" : "rQ4VnqPLSz.png",
+            "_id" : ObjectId("66694b86c06dab295e8ed7d1")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(2),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("657469658840ba4ff8bcfbe2"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667d360641f78b6ddb62aff5")
+        },
+        {
+            "userId" : ObjectId("667e7ea541f78b6ddb626ee7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("665ad664c443bb06ba79ef39")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("666807f95ee80f657773b523")
+        },
+        {
+            "userId" : ObjectId("655319c0a00a97606cc8fdfb"),
+            "usesCount" : NumberInt(3),
+            "_id" : ObjectId("6683a58b078c4ff5b622533f")
+        },
+        {
+            "userId" : ObjectId("6568b554b967331ea4e12651"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6690f8a1387725e9ac5fb7fb")
+        },
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668d2958387725e9ac5fcde6")
+        }
+    ],
+    "code" : "SE147QPN-50K",
+    "__v" : NumberInt(6)
+}
+{
+    "_id" : ObjectId("66694c7dc06dab295e8ed7d5"),
+    "description" : "Giảm 30k cho đơn hàng tối thiểu 400k",
+    "voucherType" : "allUsers",
+    "discountType" : "Cash",
+    "discountValue" : NumberInt(30000),
+    "minPurchase" : NumberInt(400000),
+    "startDate" : "14:21 12/06/2024",
+    "endDate" : "14:21 21/10/2024",
+    "quantity" : NumberInt(93),
+    "isActive" : true,
+    "createDate" : "14:21 12/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/Bv9BMpA2BY.png",
+            "name" : "Bv9BMpA2BY.png",
+            "_id" : ObjectId("66694c7dc06dab295e8ed7d6")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("667e7ea541f78b6ddb626ee7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("665c28743e14fb363151bdc8")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("666959cb5ee80f657773bc83")
+        },
+        {
+            "userId" : ObjectId("65827d89f05b8964e1b5fb2f"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667427b65ee80f6577749f08")
+        },
+        {
+            "userId" : ObjectId("657469658840ba4ff8bcfbe2"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6683a5ff078c4ff5b6225f01")
+        },
+        {
+            "userId" : ObjectId("655319c0a00a97606cc8fdfb"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668661f2046f86b9e89609ae")
+        },
+        {
+            "userId" : ObjectId("6568b554b967331ea4e12651"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6690f881387725e9ac5fb53d")
+        },
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668a882f472b163b2301e000")
+        }
+    ],
+    "code" : "QJCCRC0B-30K",
+    "__v" : NumberInt(7)
+}
+{
+    "_id" : ObjectId("66694cd2c06dab295e8ed7e4"),
+    "description" : "Giảm 100k cho đơn hàng tối thiểu 1200k",
+    "voucherType" : "allUsers",
+    "discountType" : "Cash",
+    "discountValue" : NumberInt(100000),
+    "minPurchase" : NumberInt(1200000),
+    "startDate" : "14:22 12/06/2024",
+    "endDate" : "14:22 29/10/2024",
+    "quantity" : NumberInt(92),
+    "isActive" : true,
+    "createDate" : "14:22 12/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/AuWlmfD5nn.png",
+            "name" : "AuWlmfD5nn.png",
+            "_id" : ObjectId("66694cd2c06dab295e8ed7e5")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("6568b554b967331ea4e12651"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667e832341f78b6ddb629660")
+        },
+        {
+            "userId" : ObjectId("657469658840ba4ff8bcfbe2"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667d34d641f78b6ddb62a5f0")
+        },
+        {
+            "userId" : ObjectId("65827d89f05b8964e1b5fb2f"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667eb6c841f78b6ddb62bd2b")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("666807b35ee80f657773af18")
+        },
+        {
+            "userId" : ObjectId("668268835ee80f657773ca3e"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668268ed5ee80f657773cf54")
+        },
+        {
+            "userId" : ObjectId("667e7ea541f78b6ddb626ee7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6679335b5ee80f657774233e")
+        },
+        {
+            "userId" : ObjectId("655319c0a00a97606cc8fdfb"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6672da2c5ee80f657774a9bc")
+        },
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668fcc05387725e9ac5fc5b1")
+        }
+    ],
+    "code" : "N2ZV2E51-100K",
+    "__v" : NumberInt(8)
+}
+{
+    "_id" : ObjectId("666d1be9f9e01889b8105c46"),
+    "description" : "Giảm 5% cho đơn hàng từ 1000k",
+    "voucherType" : "Silver",
+    "discountType" : "Percent",
+    "discountValue" : NumberInt(5),
+    "minPurchase" : NumberInt(1000000),
+    "startDate" : "11:42 15/06/2024",
+    "endDate" : "11:42 15/10/2024",
+    "quantity" : NumberInt(10),
+    "isActive" : true,
+    "createDate" : "11:43 15/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/h77uvfFxS5.png",
+            "name" : "h77uvfFxS5.png",
+            "_id" : ObjectId("666d1be9f9e01889b8105c47")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+
+    ],
+    "code" : "K9AG2S7R-5P",
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("666d1ec8f9e01889b8105d20"),
+    "description" : "Giảm 10% cho đơn hàng từ 2000k",
+    "voucherType" : "Gold",
+    "discountType" : "Percent",
+    "discountValue" : NumberInt(10),
+    "minPurchase" : NumberInt(2000000),
+    "startDate" : "11:55 15/06/2024",
+    "endDate" : "11:55 15/10/2024",
+    "quantity" : NumberInt(5),
+    "isActive" : true,
+    "createDate" : "11:55 15/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/TkYx9BfZXz.png",
+            "name" : "TkYx9BfZXz.png",
+            "_id" : ObjectId("666d1ec8f9e01889b8105d21")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("6568b554b967331ea4e12651"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667e81d441f78b6ddb628baf")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667fc66f5ee80f657773dbda")
+        },
+        {
+            "userId" : ObjectId("667e7ea541f78b6ddb626ee7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668118da5ee80f657773f0ea")
+        },
+        {
+            "userId" : ObjectId("668268835ee80f657773ca3e"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667bd3b15ee80f657773fe48")
+        },
+        {
+            "userId" : ObjectId("65827d89f05b8964e1b5fb2f"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667578b25ee80f657774983f")
+        }
+    ],
+    "code" : "EIJCGQQ1-10P",
+    "__v" : NumberInt(5)
+}
+{
+    "_id" : ObjectId("666d21c5f9e01889b8105d25"),
+    "description" : "Giảm 15% cho đơn hàng từ 2500k",
+    "voucherType" : "Diamond",
+    "discountType" : "Percent",
+    "discountValue" : NumberInt(15),
+    "minPurchase" : NumberInt(2500000),
+    "startDate" : "12:07 15/06/2024",
+    "endDate" : "12:07 15/10/2024",
+    "quantity" : NumberInt(6),
+    "isActive" : true,
+    "createDate" : "12:08 15/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/IBkgXD02kz.png",
+            "name" : "IBkgXD02kz.png",
+            "_id" : ObjectId("666d21c5f9e01889b8105d26")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("667e7ea541f78b6ddb626ee7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667a84945ee80f6577741f01")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6676c8575ee80f6577747a94")
+        },
+        {
+            "userId" : ObjectId("657469658840ba4ff8bcfbe2"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("66855f7b30b1c388ae38562a")
+        },
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668bd996472b163b2301dda4")
+        }
+    ],
+    "code" : "016PPE34-15P",
+    "__v" : NumberInt(4)
+}
+{
+    "_id" : ObjectId("666d3738f9e01889b8105ebb"),
+    "description" : "Giảm 30% cho đơn hàng từ 3000k",
+    "voucherType" : "VIP",
+    "discountType" : "Percent",
+    "discountValue" : NumberInt(30),
+    "minPurchase" : NumberInt(3000000),
+    "startDate" : "13:39 15/06/2024",
+    "endDate" : "13:39 15/10/2024",
+    "quantity" : NumberInt(8),
+    "isActive" : true,
+    "createDate" : "13:39 15/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/khlLGSmyId.png",
+            "name" : "khlLGSmyId.png",
+            "_id" : ObjectId("666d3738f9e01889b8105ebc")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("668268835ee80f657773ca3e"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667bd4cd5ee80f65777408ae")
+        },
+        {
+            "userId" : ObjectId("667e7ed341f78b6ddb627141"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("667577a25ee80f657774855b")
+        }
+    ],
+    "code" : "UOAKWHMD-30P",
+    "__v" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("666d3766f9e01889b8105ec0"),
+    "description" : "Giảm 50% cho đơn hàng từ 5000k",
+    "voucherType" : "VVIP",
+    "discountType" : "Percent",
+    "discountValue" : NumberInt(50),
+    "minPurchase" : NumberInt(5000000),
+    "startDate" : "13:40 15/06/2024",
+    "endDate" : "13:40 15/10/2024",
+    "quantity" : NumberInt(8),
+    "isActive" : true,
+    "createDate" : "13:40 15/06/2024",
+    "modifyDate" : "16:17 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/wO3mtLuJEt.png",
+            "name" : "wO3mtLuJEt.png",
+            "_id" : ObjectId("666d3766f9e01889b8105ec1")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(2),
+            "_id" : ObjectId("6689382c472b163b2301fcac")
+        }
+    ],
+    "code" : "WVYFJZMT-50P",
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("6672daa15ee80f657774ab99"),
+    "description" : "Giảm 30k cho mọi đơn hàng từ 30k( Free ship)",
+    "voucherType" : "allUsers",
+    "discountType" : "Cash",
+    "discountValue" : NumberInt(30000),
+    "minPurchase" : NumberInt(1000),
+    "startDate" : "20:17 13/06/2024",
+    "endDate" : "20:18 12/10/2024",
+    "quantity" : NumberInt(17),
+    "isActive" : true,
+    "createDate" : "20:18 19/06/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/1bIwX93IwU.png",
+            "name" : "1bIwX93IwU.png",
+            "_id" : ObjectId("6672daa15ee80f657774ab9a")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("655319c0a00a97606cc8fdfb"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("6686626a046f86b9e8960c48")
+        },
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(2),
+            "_id" : ObjectId("668a88f5472b163b2301eb23")
+        }
+    ],
+    "code" : "BFXMIB4N-30K",
+    "__v" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("66939809387725e9ac5f6c90"),
+    "description" : "Giảm 100k (free ship hỏa tốc) cho đơn hàng từ 100k",
+    "voucherType" : "allUsers",
+    "discountType" : "Cash",
+    "discountValue" : NumberInt(100000),
+    "minPurchase" : NumberInt(100000),
+    "startDate" : "16:18 14/07/2024",
+    "endDate" : "16:18 01/11/2024",
+    "quantity" : NumberInt(99),
+    "isActive" : true,
+    "createDate" : "16:19 14/07/2024",
+    "modifyDate" : "19:36 14/07/2024",
+    "imageVoucher" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/1WHndK5KFC.png",
+            "name" : "1WHndK5KFC.png",
+            "_id" : ObjectId("66939809387725e9ac5f6c91")
+        }
+    ],
+    "userVoucherLimit" : NumberInt(1),
+    "usedByUsers" : [
+        {
+            "userId" : ObjectId("6693c002387725e9ac5fbac7"),
+            "usesCount" : NumberInt(1),
+            "_id" : ObjectId("668e7ac1387725e9ac5fcb68")
+        }
+    ],
+    "code" : "0AO73A9M-100K",
+    "__v" : NumberInt(1)
+}

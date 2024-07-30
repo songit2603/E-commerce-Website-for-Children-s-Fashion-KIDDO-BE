@@ -1,0 +1,79 @@
+{
+    "_id" : ObjectId("667934a65ee80f6577742ce1"),
+    "products" : [
+        ObjectId("6627c7d4ff7b4200a8a05105"),
+        ObjectId("662b5785ad72006e8eca884b"),
+        ObjectId("664365cf5760504a00312be6"),
+        ObjectId("664366e05760504a00312c41"),
+        ObjectId("664368bb5760504a00312ca0"),
+        ObjectId("66436e265760504a00313d48"),
+        ObjectId("6644262722bd171d1209efb8"),
+        ObjectId("6644619b22bd171d120a3eea"),
+        ObjectId("6646c94b9f332a40d4faaeab"),
+        ObjectId("66471a309e5b7f9710d044cf")
+    ],
+    "name" : "Hè sang săn hàng sale",
+    "discount" : NumberInt(40),
+    "banner" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/zrE9BFvP3u.png",
+            "name" : "zrE9BFvP3u.png",
+            "_id" : ObjectId("667934a65ee80f6577742ce2")
+        }
+    ],
+    "startDate" : "15:54 24/06/2024",
+    "endDate" : "15:54 20/09/2024",
+    "isStart" : "Started",
+    "frameStyle" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/oa5PRGt29t.png",
+            "name" : "oa5PRGt29t.png",
+            "_id" : ObjectId("667934a65ee80f6577742ce3")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6682704f5ee80f657774329e"),
+    "products" : [
+        ObjectId("66265bd6db0842b04b3549e9"),
+        ObjectId("6626639cdb0842b04b354b83"),
+        ObjectId("66267320db0842b04b354c19"),
+        ObjectId("6627127bc74e6f03cb7a5b2f"),
+        ObjectId("66271721c74e6f03cb7a5be8"),
+        ObjectId("6627191cc74e6f03cb7a5c5f"),
+        ObjectId("66271aa4c74e6f03cb7a5c94"),
+        ObjectId("66271cf8c74e6f03cb7a5cc9"),
+        ObjectId("662727bfc74e6f03cb7a5d2e"),
+        ObjectId("662761f5c74e6f03cb7a5d96"),
+        ObjectId("66276564c74e6f03cb7a5dd4"),
+        ObjectId("66276733c74e6f03cb7a5e0c"),
+        ObjectId("66276a20c74e6f03cb7a5e68"),
+        ObjectId("66276bd2c74e6f03cb7a5ed5"),
+        ObjectId("66276e47c74e6f03cb7a5f0b"),
+        ObjectId("662771bac74e6f03cb7a5f41"),
+        ObjectId("662773d7c74e6f03cb7a5f77"),
+        ObjectId("662774c7c74e6f03cb7a5fad"),
+        ObjectId("662775f0c74e6f03cb7a5fe5")
+    ],
+    "name" : "Sưu tập đồ bộ hè",
+    "discount" : NumberInt(50),
+    "banner" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/vlNR93I7bx.png",
+            "name" : "vlNR93I7bx.png",
+            "_id" : ObjectId("6682704f5ee80f657774329f")
+        }
+    ],
+    "startDate" : "15:59 01/07/2024",
+    "endDate" : "15:59 04/10/2024",
+    "isStart" : "Started",
+    "frameStyle" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/HkVxxjsqiK.png",
+            "name" : "HkVxxjsqiK.png",
+            "_id" : ObjectId("6682704f5ee80f65777432a0")
+        }
+    ],
+    "__v" : NumberInt(0)
+}

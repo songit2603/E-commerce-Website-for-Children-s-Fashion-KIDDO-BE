@@ -1,0 +1,161 @@
+{
+    "_id" : ObjectId("66328ca13d911bdff4767c14"),
+    "name" : "Khai Phan",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "01 Vo Van Ngan Street, Xã Chi Lăng Bắc, Huyện Thanh Miện, Tỉnh Hải Dương",
+    "createDate" : "01:40 02/05/2024",
+    "modifyDate" : "11:17 02/05/2024",
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "__v" : NumberInt(0),
+    "email" : "khaikhai331@gmail.com",
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("66328cb43d911bdff476853a"),
+    "name" : "Phan Hoàng Khải",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "30/2, khu phố 2, Xã Nhơn Nghĩa, Huyện Phong Điền, Thành phố Cần Thơ",
+    "createDate" : "01:40 02/05/2024",
+    "modifyDate" : "00:29 03/05/2024",
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "__v" : NumberInt(0),
+    "email" : "20142004@student.hcmute.edu.vn",
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("663294003d911bdff4768f75"),
+    "name" : "Phan Hoàng Khải",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "30/2, Kp2, đường Trương Định, Tân Mai, Biên Hòa, Đồng Nai, Xã Liên Vị, Thị xã Quảng Yên, Tỉnh Quảng Ninh",
+    "createDate" : "02:12 02/05/2024",
+    "modifyDate" : "11:17 02/05/2024",
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "__v" : NumberInt(0),
+    "email" : "khaikhai331@gmail.com",
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("66331033c6d859f6c2e687e2"),
+    "name" : "Khai Phan",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "01 Vo Van Ngan Street, Xã Quảng Minh, Huyện Việt Yên, Tỉnh Bắc Giang",
+    "createDate" : "11:01 02/05/2024",
+    "modifyDate" : "11:01 02/05/2024",
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "__v" : NumberInt(0),
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("66335147ab430a0d6728a08e"),
+    "name" : "Phan Hoàng Khải",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "30/2, khu phố 2, Xã Quảng Bạch, Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+    "createDate" : "15:39 02/05/2024",
+    "modifyDate" : "15:39 02/05/2024",
+    "user" : ObjectId("657469658840ba4ff8bcfbe2"),
+    "email" : "khaikhai331@gmail.com",
+    "__v" : NumberInt(0),
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("663737600a9e3f96f9b61e0e"),
+    "name" : "Le Minh Nhat",
+    "phoneNumber" : "0367151727",
+    "shippingAddress" : "Yeniköy Mh., Xã Vũ Quí, Huyện Kiến Xương, Tỉnh Thái Bình",
+    "createDate" : "14:38 05/05/2024",
+    "modifyDate" : "08:33 05/07/2024",
+    "user" : ObjectId("655319c0a00a97606cc8fdfb"),
+    "email" : "",
+    "__v" : NumberInt(0),
+    "isDefault" : true
+}
+{
+    "_id" : ObjectId("663f0fe86f6f4543249060a6"),
+    "name" : "Phan Hoang Khai",
+    "phoneNumber" : "0786754827",
+    "shippingAddress" : "47, Phường Tân Mai, Thành phố Biên Hòa, Tỉnh Đồng Nai",
+    "createDate" : "13:27 11/05/2024",
+    "modifyDate" : "13:28 11/05/2024",
+    "user" : ObjectId("65827f8af05b8964e1b5fb42"),
+    "__v" : NumberInt(0),
+    "isDefault" : false
+}
+{
+    "_id" : ObjectId("663f1480fca411d9ed6aef69"),
+    "name" : "Nguyễn Hồng Sơn",
+    "phoneNumber" : "0869572901",
+    "shippingAddress" : "11, Phường Trảng Dài, Thành phố Biên Hòa, Tỉnh Đồng Nai",
+    "createDate" : "13:47 11/05/2024",
+    "modifyDate" : "13:47 11/05/2024",
+    "user" : ObjectId("663f140bfca411d9ed6aeb63"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("667e80a841f78b6ddb627b7e"),
+    "name" : "Khải Phan",
+    "phoneNumber" : "0903456789",
+    "shippingAddress" : "39 Nam Kì Khởi Nghĩa, Xã Thèn Chu Phìn, Huyện Hoàng Su Phì, Tỉnh Hà Giang",
+    "createDate" : "16:21 28/06/2024",
+    "modifyDate" : "16:21 28/06/2024",
+    "user" : ObjectId("6568b554b967331ea4e12651"),
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("667eb6be41f78b6ddb62bc66"),
+    "name" : "Phan Đình Chương",
+    "phoneNumber" : "0903456789",
+    "shippingAddress" : "36 Tân Mai, Xã Vinh Quý, Huyện Hạ Lang, Tỉnh Cao Bằng",
+    "createDate" : "20:12 28/06/2024",
+    "modifyDate" : "20:12 28/06/2024",
+    "user" : ObjectId("65827d89f05b8964e1b5fb2f"),
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("665ad65cc443bb06ba79eeaf"),
+    "name" : "Thien Bao",
+    "phoneNumber" : "0905409625",
+    "shippingAddress" : "36 Bờ bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Thành phố Hồ Chí Minh",
+    "createDate" : "15:05 01/06/2024",
+    "modifyDate" : "15:12 10/06/2024",
+    "user" : ObjectId("667e7ea541f78b6ddb626ee7"),
+    "email" : "",
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("666807ac5ee80f657773ae6b"),
+    "name" : "Ngoc Nam",
+    "phoneNumber" : "0903456789",
+    "shippingAddress" : "3 Duong Lan, Xã Vân Tùng, Huyện Ngân Sơn, Tỉnh Bắc Kạn",
+    "createDate" : "15:15 11/06/2024",
+    "modifyDate" : "15:15 11/06/2024",
+    "user" : ObjectId("667e7ed341f78b6ddb627141"),
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("668268e55ee80f657773cee6"),
+    "name" : "Trần Việt Hà",
+    "phoneNumber" : "0905409625",
+    "shippingAddress" : "Số 8 Hùng Vương, Thị trấn Thanh Nhật, Huyện Hạ Lang, Tỉnh Cao Bằng",
+    "createDate" : "15:29 01/07/2024",
+    "modifyDate" : "15:39 26/06/2024",
+    "user" : ObjectId("668268835ee80f657773ca3e"),
+    "email" : "",
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("668fcbee387725e9ac5fc4b9"),
+    "name" : "Nguyễn Nam Thành",
+    "phoneNumber" : "0905409625",
+    "shippingAddress" : "99 Hỏa Lò, Xã Thanh Long, Huyện Thanh Chương, Tỉnh Nghệ An",
+    "createDate" : "19:11 11/07/2024",
+    "modifyDate" : "19:11 11/07/2024",
+    "user" : ObjectId("6693c002387725e9ac5fbac7"),
+    "email" : "",
+    "isDefault" : true,
+    "__v" : NumberInt(0)
+}

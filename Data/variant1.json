@@ -1,0 +1,2813 @@
+{
+    "_id" : ObjectId("6609182fef19ea7fa1676b9c"),
+    "name" : "đỏ",
+    "imageName" : "mx1JhXLgZs.png",
+    "price" : NumberInt(259000),
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6609182fef19ea7fa1676b9e"),
+    "name" : "cam",
+    "imageName" : "B8gTHYiGWk.png",
+    "price" : NumberInt(259000),
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6609188def19ea7fa1676baa"),
+    "name" : "đỏ",
+    "imageName" : "mx1JhXLgZs.png",
+    "price" : NumberInt(259000),
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6609188def19ea7fa1676bac"),
+    "name" : "cam",
+    "imageName" : "B8gTHYiGWk.png",
+    "price" : NumberInt(259000),
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614b4fa182c392df4013a66"),
+    "name" : "Màu đỏ",
+    "imageName" : "null",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6614b4fa182c392df4013a67"),
+        ObjectId("6614b4fa182c392df4013a6a"),
+        ObjectId("6614b4fa182c392df4013a6d"),
+        ObjectId("6614b4fa182c392df4013a70"),
+        ObjectId("6614b4fa182c392df4013a73"),
+        ObjectId("6614b4fa182c392df4013a76")
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614b4fa182c392df4013a7a"),
+    "name" : "Xanh dương",
+    "imageName" : "null",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6614b4fa182c392df4013a7b"),
+        ObjectId("6614b4fa182c392df4013a7e"),
+        ObjectId("6614b4fa182c392df4013a81"),
+        ObjectId("6614b4fa182c392df4013a84"),
+        ObjectId("6614b4fa182c392df4013a87"),
+        ObjectId("6614b4fa182c392df4013a8a")
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614b4fa182c392df4013a8e"),
+    "name" : "Đen",
+    "imageName" : "null",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6614b4fa182c392df4013a8f"),
+        ObjectId("6614b4fa182c392df4013a92"),
+        ObjectId("6614b4fa182c392df4013a95"),
+        ObjectId("6614b4fa182c392df4013a98"),
+        ObjectId("6614b4fa182c392df4013a9b"),
+        ObjectId("6614b4fa182c392df4013a9e")
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bd70fa8f2246b417e45a"),
+    "name" : "U3106",
+    "imageName" : "vn-11134207-7qukw-lfglallvv8mtc0.jpg",
+    "price" : NumberInt(199000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(238800),
+    "newVariant1Price" : NumberInt(214920),
+    "netProfit" : NumberInt(15920),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bd70fa8f2246b417e45c"),
+    "name" : "U3107",
+    "imageName" : "vn-11134207-7r98o-lsuo50nyhqys50.jpg",
+    "price" : NumberInt(199000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(238800),
+    "newVariant1Price" : NumberInt(214920),
+    "netProfit" : NumberInt(15920),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bd70fa8f2246b417e45e"),
+    "name" : "U3108",
+    "imageName" : "vn-11134207-7r98o-lsuo50nyhqxl1b.jpg",
+    "price" : NumberInt(199000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(238800),
+    "newVariant1Price" : NumberInt(214920),
+    "netProfit" : NumberInt(15920),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bd70fa8f2246b417e460"),
+    "name" : "U3109",
+    "imageName" : "vn-11134207-7r98o-lsuo50nykk3o94.jpg",
+    "price" : NumberInt(199000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(238800),
+    "newVariant1Price" : NumberInt(214920),
+    "netProfit" : NumberInt(15920),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bd70fa8f2246b417e462"),
+    "name" : "U31010",
+    "imageName" : "vn-11134207-7r98o-lsuo50nyj5j8a4.jpg",
+    "price" : NumberInt(199000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(238800),
+    "newVariant1Price" : NumberInt(214920),
+    "netProfit" : NumberInt(15920),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bed3fa8f2246b417e474"),
+    "name" : "U3106",
+    "imageName" : "vn-11134207-7r98o-lsuo50nyhqys50.jpg",
+    "price" : NumberInt(259000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bed3fa8f2246b417e476"),
+    "name" : "U3107",
+    "imageName" : "vn-11134207-7r98o-lsuo50nyj5j8a4.jpg",
+    "price" : NumberInt(259000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bed3fa8f2246b417e478"),
+    "name" : "U3108",
+    "imageName" : "vn-11134207-7r98o-lsuo50nykk3o94.jpg",
+    "price" : NumberInt(259000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6614bed3fa8f2246b417e47a"),
+    "name" : "U3109",
+    "imageName" : "vn-11134207-7qukw-lfl0rjf24hok87.jpg",
+    "price" : NumberInt(259000),
+    "stock" : NumberInt(1000),
+    "variant2" : [
+
+    ],
+    "originalPrice" : NumberInt(310800),
+    "newVariant1Price" : NumberInt(279720),
+    "netProfit" : NumberInt(20720),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("661980422cf29926aeb33674"),
+    "name" : "Chân váy bầm tím",
+    "imageName" : "sg-11134201-7rcex-lrzq00nqfcb64c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("661980752cf29926aeb33682"),
+    "name" : "Chân váy gay go",
+    "imageName" : "sg-11134201-7rcex-lrzq00nqfcb64c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("661980d52cf29926aeb33697"),
+    "name" : "Chân váy bầm tím",
+    "imageName" : "sg-11134201-7rcex-lrzq00nqfcb64c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("661981142cf29926aeb336ac"),
+    "name" : "Chân váy bầm tím",
+    "imageName" : "sg-11134201-7rcex-lrzq00nqfcb64c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("661981282cf29926aeb336e6"),
+    "name" : "Chân váy hồng gay",
+    "imageName" : "sg-11134201-7rcc8-lrzq01lb27i363.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66198ae52cf29926aeb337dc"),
+    "name" : "Chân váy hồng gay go",
+    "imageName" : "sg-11134201-7rcc8-lrzq01lb27i363.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+
+    ],
+    "position" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66265bd6db0842b04b3549ef"),
+    "name" : "Cam",
+    "imageName" : "560003-1_f8ab14cc64f64ec99400b4595028c912.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66265bd6db0842b04b3549f0"),
+        ObjectId("66265bd6db0842b04b3549f3"),
+        ObjectId("66265bd6db0842b04b3549f6"),
+        ObjectId("66265bd6db0842b04b3549f9"),
+        ObjectId("66265bd6db0842b04b3549fc")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66265bd6db0842b04b354a00"),
+    "name" : "Xanh Lá",
+    "imageName" : "560003-0_6dd246410d0f4aca9dfb18e885f22ed3.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66265bd6db0842b04b354a01"),
+        ObjectId("66265bd6db0842b04b354a04"),
+        ObjectId("66265bd6db0842b04b354a07"),
+        ObjectId("66265bd6db0842b04b354a0a"),
+        ObjectId("66265bd6db0842b04b354a0d")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6626639cdb0842b04b354b8c"),
+    "name" : "Đỏ tươi",
+    "imageName" : "56000524-0_e0408c14bdd64762aa4489cbac099297.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6626639cdb0842b04b354b8d"),
+        ObjectId("6626639cdb0842b04b354b90"),
+        ObjectId("6626639cdb0842b04b354b93"),
+        ObjectId("6626639cdb0842b04b354b96")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6626639cdb0842b04b354b9a"),
+    "name" : "Bạc",
+    "imageName" : "56000524-1_cf3f6167b6f94c4c8216de36e19b3b0c.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6626639cdb0842b04b354b9b"),
+        ObjectId("6626639cdb0842b04b354b9e"),
+        ObjectId("6626639cdb0842b04b354ba1"),
+        ObjectId("6626639cdb0842b04b354ba4")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66267320db0842b04b354c20"),
+    "name" : "Xanh nhạt",
+    "imageName" : "93068000-5_d7c8837632434fedb61850673a536ebd.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66267320db0842b04b354c21"),
+        ObjectId("66267320db0842b04b354c24"),
+        ObjectId("66267320db0842b04b354c27"),
+        ObjectId("66267320db0842b04b354c2a"),
+        ObjectId("66267320db0842b04b354c2d")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66267320db0842b04b354c31"),
+    "name" : "Xanh đậm",
+    "imageName" : "93068000-1_28fa722105fe4aada4a40bc71b3ba8b6.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66267320db0842b04b354c32"),
+        ObjectId("66267320db0842b04b354c35"),
+        ObjectId("66267320db0842b04b354c38"),
+        ObjectId("66267320db0842b04b354c3b"),
+        ObjectId("66267320db0842b04b354c3e")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627127bc74e6f03cb7a5b37"),
+    "name" : "Cam",
+    "imageName" : "93022__4__1d6e3b9089e94076aceedb9240b140de.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627127bc74e6f03cb7a5b38"),
+        ObjectId("6627127bc74e6f03cb7a5b3b"),
+        ObjectId("6627127bc74e6f03cb7a5b3e"),
+        ObjectId("6627127bc74e6f03cb7a5b41"),
+        ObjectId("6627127bc74e6f03cb7a5b44")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627127bc74e6f03cb7a5b48"),
+    "name" : "Xám",
+    "imageName" : "93022__3__6e5fe348880542eba75c1372dee9e1e7.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627127bc74e6f03cb7a5b49"),
+        ObjectId("6627127bc74e6f03cb7a5b4c"),
+        ObjectId("6627127bc74e6f03cb7a5b4f"),
+        ObjectId("6627127bc74e6f03cb7a5b52"),
+        ObjectId("6627127bc74e6f03cb7a5b55")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271721c74e6f03cb7a5bf0"),
+    "name" : "Xanh rêu",
+    "imageName" : "93726000-1_60af4ddd03d047b0b0956d643ddd2a4a.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271721c74e6f03cb7a5bf1"),
+        ObjectId("66271721c74e6f03cb7a5bf4"),
+        ObjectId("66271721c74e6f03cb7a5bf7"),
+        ObjectId("66271721c74e6f03cb7a5bfa"),
+        ObjectId("66271721c74e6f03cb7a5bfd"),
+        ObjectId("66271721c74e6f03cb7a5c00")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271721c74e6f03cb7a5c04"),
+    "name" : "Đen",
+    "imageName" : "93726000-7_4c599c66a6d14a0b989c6f50f89c7694.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271721c74e6f03cb7a5c05"),
+        ObjectId("66271721c74e6f03cb7a5c08"),
+        ObjectId("66271721c74e6f03cb7a5c0b"),
+        ObjectId("66271721c74e6f03cb7a5c0e"),
+        ObjectId("66271721c74e6f03cb7a5c11"),
+        ObjectId("66271721c74e6f03cb7a5c14")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627191cc74e6f03cb7a5c66"),
+    "name" : "Tím than",
+    "imageName" : "92732-1_b9396fe4afd54e228c1ec4f538bda4b2.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627191cc74e6f03cb7a5c67"),
+        ObjectId("6627191cc74e6f03cb7a5c6a"),
+        ObjectId("6627191cc74e6f03cb7a5c6d"),
+        ObjectId("6627191cc74e6f03cb7a5c70"),
+        ObjectId("6627191cc74e6f03cb7a5c73")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627191cc74e6f03cb7a5c77"),
+    "name" : "Xám",
+    "imageName" : "92732-4_da25b4cf13d2471087d2a8cc13f22740.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627191cc74e6f03cb7a5c78"),
+        ObjectId("6627191cc74e6f03cb7a5c7b"),
+        ObjectId("6627191cc74e6f03cb7a5c7e"),
+        ObjectId("6627191cc74e6f03cb7a5c81"),
+        ObjectId("6627191cc74e6f03cb7a5c84")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271aa4c74e6f03cb7a5c9b"),
+    "name" : "Đỏ",
+    "imageName" : "5612_7e9ccfac8381485ba5ba08c7bb17ec61.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271aa4c74e6f03cb7a5c9c"),
+        ObjectId("66271aa4c74e6f03cb7a5c9f"),
+        ObjectId("66271aa4c74e6f03cb7a5ca2"),
+        ObjectId("66271aa4c74e6f03cb7a5ca5"),
+        ObjectId("66271aa4c74e6f03cb7a5ca8")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271aa4c74e6f03cb7a5cac"),
+    "name" : "Xanh",
+    "imageName" : "5612__2__89fd2351fb1a4cfdb217319b0c88f8a1.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271aa4c74e6f03cb7a5cad"),
+        ObjectId("66271aa4c74e6f03cb7a5cb0"),
+        ObjectId("66271aa4c74e6f03cb7a5cb3"),
+        ObjectId("66271aa4c74e6f03cb7a5cb6"),
+        ObjectId("66271aa4c74e6f03cb7a5cb9")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271cf8c74e6f03cb7a5cd2"),
+    "name" : "Xanh rêu",
+    "imageName" : "92283-5_027e0566ad874d888bd1db281e6dd8d1.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271cf8c74e6f03cb7a5cd3"),
+        ObjectId("66271cf8c74e6f03cb7a5cd6"),
+        ObjectId("66271cf8c74e6f03cb7a5cd9"),
+        ObjectId("66271cf8c74e6f03cb7a5cdc"),
+        ObjectId("66271cf8c74e6f03cb7a5cdf"),
+        ObjectId("66271cf8c74e6f03cb7a5ce2")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66271cf8c74e6f03cb7a5ce6"),
+    "name" : "Tím than",
+    "imageName" : "92283-1_190b0ba693c44293b9479df2d191c71b.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66271cf8c74e6f03cb7a5ce7"),
+        ObjectId("66271cf8c74e6f03cb7a5cea"),
+        ObjectId("66271cf8c74e6f03cb7a5ced"),
+        ObjectId("66271cf8c74e6f03cb7a5cf0"),
+        ObjectId("66271cf8c74e6f03cb7a5cf3"),
+        ObjectId("66271cf8c74e6f03cb7a5cf6")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662727bfc74e6f03cb7a5d36"),
+    "name" : "Xám",
+    "imageName" : "57680000-0_0c2efc4639c641378da96e8e218823a7.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662727bfc74e6f03cb7a5d37"),
+        ObjectId("662727bfc74e6f03cb7a5d3a"),
+        ObjectId("662727bfc74e6f03cb7a5d3d"),
+        ObjectId("662727bfc74e6f03cb7a5d40"),
+        ObjectId("662727bfc74e6f03cb7a5d43")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662727bfc74e6f03cb7a5d47"),
+    "name" : "Xanh",
+    "imageName" : "57680000-0_c7ec6da2c28c4b289c98f51ab20c0ea3.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662727bfc74e6f03cb7a5d48"),
+        ObjectId("662727bfc74e6f03cb7a5d4b"),
+        ObjectId("662727bfc74e6f03cb7a5d4e"),
+        ObjectId("662727bfc74e6f03cb7a5d51"),
+        ObjectId("662727bfc74e6f03cb7a5d54")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662727bfc74e6f03cb7a5d58"),
+    "name" : "Tím than",
+    "imageName" : "57680000-4_00d53a72d88648d8bad53de615ce254e.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662727bfc74e6f03cb7a5d59"),
+        ObjectId("662727bfc74e6f03cb7a5d5c"),
+        ObjectId("662727bfc74e6f03cb7a5d5f"),
+        ObjectId("662727bfc74e6f03cb7a5d62"),
+        ObjectId("662727bfc74e6f03cb7a5d65")
+    ],
+    "index" : NumberInt(2),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662761f5c74e6f03cb7a5d9e"),
+    "name" : "Trắng",
+    "imageName" : "560006241-1_da53c315f6c7431b9a2c92ed3f5744d9.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662761f5c74e6f03cb7a5d9f"),
+        ObjectId("662761f5c74e6f03cb7a5da2"),
+        ObjectId("662761f5c74e6f03cb7a5da5"),
+        ObjectId("662761f5c74e6f03cb7a5da8"),
+        ObjectId("662761f5c74e6f03cb7a5dab")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662761f5c74e6f03cb7a5daf"),
+    "name" : "Hồng",
+    "imageName" : "560006241-0_878307b656dc40d2a31fb85519ed64bd.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662761f5c74e6f03cb7a5db0"),
+        ObjectId("662761f5c74e6f03cb7a5db3"),
+        ObjectId("662761f5c74e6f03cb7a5db6"),
+        ObjectId("662761f5c74e6f03cb7a5db9"),
+        ObjectId("662761f5c74e6f03cb7a5dbc")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276564c74e6f03cb7a5ddd"),
+    "name" : "Vàng",
+    "imageName" : "40_0_3c40ab92494c4de0a0054e37dfb83e23.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276564c74e6f03cb7a5dde"),
+        ObjectId("66276564c74e6f03cb7a5de1"),
+        ObjectId("66276564c74e6f03cb7a5de4"),
+        ObjectId("66276564c74e6f03cb7a5de7"),
+        ObjectId("66276564c74e6f03cb7a5dea")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276564c74e6f03cb7a5dee"),
+    "name" : "Hồng",
+    "imageName" : "39_0_0f9d68e4c36145c1bea5dfd012e9f094.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276564c74e6f03cb7a5def"),
+        ObjectId("66276564c74e6f03cb7a5df2"),
+        ObjectId("66276564c74e6f03cb7a5df5"),
+        ObjectId("66276564c74e6f03cb7a5df8"),
+        ObjectId("66276564c74e6f03cb7a5dfb")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276733c74e6f03cb7a5e15"),
+    "name" : "Trắng",
+    "imageName" : "93266-2_dae6d296bac44b5dafc6feb0e5f51c1f.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276733c74e6f03cb7a5e16"),
+        ObjectId("66276733c74e6f03cb7a5e19"),
+        ObjectId("66276733c74e6f03cb7a5e1c"),
+        ObjectId("66276733c74e6f03cb7a5e1f"),
+        ObjectId("66276733c74e6f03cb7a5e22")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276733c74e6f03cb7a5e26"),
+    "name" : "Hồng",
+    "imageName" : "93266-1_2cf2031a6d004e1984f80b603563cc26.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276733c74e6f03cb7a5e27"),
+        ObjectId("66276733c74e6f03cb7a5e2a"),
+        ObjectId("66276733c74e6f03cb7a5e2d"),
+        ObjectId("66276733c74e6f03cb7a5e30"),
+        ObjectId("66276733c74e6f03cb7a5e33")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276a20c74e6f03cb7a5e72"),
+    "name" : "Đỏ",
+    "imageName" : "5644-5_337ce29f005c40aba3b94ee71f268a37.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276a20c74e6f03cb7a5e73"),
+        ObjectId("66276a20c74e6f03cb7a5e76"),
+        ObjectId("66276a20c74e6f03cb7a5e79"),
+        ObjectId("66276a20c74e6f03cb7a5e7c"),
+        ObjectId("66276a20c74e6f03cb7a5e7f"),
+        ObjectId("66276a20c74e6f03cb7a5e82")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276a20c74e6f03cb7a5e86"),
+    "name" : "Tím",
+    "imageName" : "5644-1_83e24334971d4d8a9df20286eab71208.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276a20c74e6f03cb7a5e87"),
+        ObjectId("66276a20c74e6f03cb7a5e8a"),
+        ObjectId("66276a20c74e6f03cb7a5e8d"),
+        ObjectId("66276a20c74e6f03cb7a5e90"),
+        ObjectId("66276a20c74e6f03cb7a5e93"),
+        ObjectId("66276a20c74e6f03cb7a5e96")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276bd2c74e6f03cb7a5edd"),
+    "name" : "Hồng",
+    "imageName" : "93768000-1_1f0eddad3daa42669bc0a1ed63cb94bf.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276bd2c74e6f03cb7a5ede"),
+        ObjectId("66276bd2c74e6f03cb7a5ee1"),
+        ObjectId("66276bd2c74e6f03cb7a5ee4"),
+        ObjectId("66276bd2c74e6f03cb7a5ee7"),
+        ObjectId("66276bd2c74e6f03cb7a5eea")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276bd2c74e6f03cb7a5eee"),
+    "name" : "Cam nhạt",
+    "imageName" : "93768000-7_0eb3b1fb446f41ff8d4b370819df958e.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276bd2c74e6f03cb7a5eef"),
+        ObjectId("66276bd2c74e6f03cb7a5ef2"),
+        ObjectId("66276bd2c74e6f03cb7a5ef5"),
+        ObjectId("66276bd2c74e6f03cb7a5ef8"),
+        ObjectId("66276bd2c74e6f03cb7a5efb")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276e47c74e6f03cb7a5f13"),
+    "name" : "Vàng",
+    "imageName" : "92784-12_0fda494e2d1b4cf192f9740a10d85f31.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276e47c74e6f03cb7a5f14"),
+        ObjectId("66276e47c74e6f03cb7a5f17"),
+        ObjectId("66276e47c74e6f03cb7a5f1a"),
+        ObjectId("66276e47c74e6f03cb7a5f1d"),
+        ObjectId("66276e47c74e6f03cb7a5f20")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66276e47c74e6f03cb7a5f24"),
+    "name" : "Đỏ",
+    "imageName" : "92784-7_21bff1fff37341d7ba3ea41cebed81e9.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66276e47c74e6f03cb7a5f25"),
+        ObjectId("66276e47c74e6f03cb7a5f28"),
+        ObjectId("66276e47c74e6f03cb7a5f2b"),
+        ObjectId("66276e47c74e6f03cb7a5f2e"),
+        ObjectId("66276e47c74e6f03cb7a5f31")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662771bac74e6f03cb7a5f49"),
+    "name" : "Xanh",
+    "imageName" : "93308000-5_adddac96c7bf40ac822b0afc3916f2b7.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662771bac74e6f03cb7a5f4a"),
+        ObjectId("662771bac74e6f03cb7a5f4d"),
+        ObjectId("662771bac74e6f03cb7a5f50"),
+        ObjectId("662771bac74e6f03cb7a5f53"),
+        ObjectId("662771bac74e6f03cb7a5f56")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662771bac74e6f03cb7a5f5a"),
+    "name" : "Tím",
+    "imageName" : "93308000-4_b52373ef3a194ac09e9496c34d46700a.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662771bac74e6f03cb7a5f5b"),
+        ObjectId("662771bac74e6f03cb7a5f5e"),
+        ObjectId("662771bac74e6f03cb7a5f61"),
+        ObjectId("662771bac74e6f03cb7a5f64"),
+        ObjectId("662771bac74e6f03cb7a5f67")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662773d7c74e6f03cb7a5f7f"),
+    "name" : "Vàng",
+    "imageName" : "93452000-4_c11b87ba0be24efb91a866aa2d35a28c.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662773d7c74e6f03cb7a5f80"),
+        ObjectId("662773d7c74e6f03cb7a5f83"),
+        ObjectId("662773d7c74e6f03cb7a5f86"),
+        ObjectId("662773d7c74e6f03cb7a5f89"),
+        ObjectId("662773d7c74e6f03cb7a5f8c")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662773d7c74e6f03cb7a5f90"),
+    "name" : "Hồng",
+    "imageName" : "93452000-1_a4a3093415da4e7d8b5888c72d794a94.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662773d7c74e6f03cb7a5f91"),
+        ObjectId("662773d7c74e6f03cb7a5f94"),
+        ObjectId("662773d7c74e6f03cb7a5f97"),
+        ObjectId("662773d7c74e6f03cb7a5f9a"),
+        ObjectId("662773d7c74e6f03cb7a5f9d")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662774c7c74e6f03cb7a5fb5"),
+    "name" : "4 tuổi _ 14-16kg",
+    "imageName" : "93214000-2_bb440af19edc4356943b0230b949f7d0.png",
+    "price" : NumberInt(300000),
+    "stock" : NumberInt(188),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(600000),
+    "newVariant1Price" : NumberInt(300000),
+    "netProfit" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662774c7c74e6f03cb7a5fb7"),
+    "name" : "5 tuổi _ 17-19kg",
+    "imageName" : "93214000-4_5e5cc32575af48cea67cbbd44b38f322.png",
+    "price" : NumberInt(300000),
+    "stock" : NumberInt(190),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(600000),
+    "newVariant1Price" : NumberInt(300000),
+    "netProfit" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662774c7c74e6f03cb7a5fb9"),
+    "name" : "6 tuổi _ 19-21kg",
+    "imageName" : "93214000-3_f056a3c76eaf47aeb4efdda9ebb340ab.png",
+    "price" : NumberInt(310000),
+    "stock" : NumberInt(210),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(2),
+    "originalPrice" : NumberInt(620000),
+    "newVariant1Price" : NumberInt(310000),
+    "netProfit" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662774c7c74e6f03cb7a5fbb"),
+    "name" : "8 tuổi _ 23-25kg",
+    "imageName" : "93214000-1_14de9fdcf2d5482ca4e0cb0e7f5dbeda.png",
+    "price" : NumberInt(320000),
+    "stock" : NumberInt(220),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(3),
+    "originalPrice" : NumberInt(640000),
+    "newVariant1Price" : NumberInt(320000),
+    "netProfit" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662775f0c74e6f03cb7a5fed"),
+    "name" : "Vàng",
+    "imageName" : "93193000-4_36dfc794c85b423aae0f3bf087ddfc1f.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662775f0c74e6f03cb7a5fee"),
+        ObjectId("662775f0c74e6f03cb7a5ff1"),
+        ObjectId("662775f0c74e6f03cb7a5ff4"),
+        ObjectId("662775f0c74e6f03cb7a5ff7"),
+        ObjectId("662775f0c74e6f03cb7a5ffa")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662775f0c74e6f03cb7a5ffe"),
+    "name" : "Cam",
+    "imageName" : "93193000-0_45d3f7d855e14c4ebe88b615e1620b44.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662775f0c74e6f03cb7a5fff"),
+        ObjectId("662775f0c74e6f03cb7a6002"),
+        ObjectId("662775f0c74e6f03cb7a6005"),
+        ObjectId("662775f0c74e6f03cb7a6008"),
+        ObjectId("662775f0c74e6f03cb7a600b")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b1ccc74e6f03cb7a6044"),
+    "name" : "Hồng",
+    "imageName" : "93506000-4_809668d76ef145b4870e8d6ffe4a650c.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b1ccc74e6f03cb7a6045"),
+        ObjectId("6627b1ccc74e6f03cb7a6048"),
+        ObjectId("6627b1ccc74e6f03cb7a604b"),
+        ObjectId("6627b1ccc74e6f03cb7a604e"),
+        ObjectId("6627b1ccc74e6f03cb7a6051"),
+        ObjectId("6627b1ccc74e6f03cb7a6054")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b1ccc74e6f03cb7a6058"),
+    "name" : "Tím",
+    "imageName" : "93506000-0_4909897d79e1428a929ca24991d6e0bb.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b1ccc74e6f03cb7a6059"),
+        ObjectId("6627b1ccc74e6f03cb7a605c"),
+        ObjectId("6627b1ccc74e6f03cb7a605f"),
+        ObjectId("6627b1ccc74e6f03cb7a6062"),
+        ObjectId("6627b1ccc74e6f03cb7a6065"),
+        ObjectId("6627b1ccc74e6f03cb7a6068")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b3d1c74e6f03cb7a6088"),
+    "name" : "Tím",
+    "imageName" : "57720000-4_a463fb5f949d4a57be752c177bcf4657.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b3d1c74e6f03cb7a6089"),
+        ObjectId("6627b3d1c74e6f03cb7a608c"),
+        ObjectId("6627b3d1c74e6f03cb7a608f"),
+        ObjectId("6627b3d1c74e6f03cb7a6092"),
+        ObjectId("6627b3d1c74e6f03cb7a6095")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b3d1c74e6f03cb7a6099"),
+    "name" : "Hồng",
+    "imageName" : "57720000-0_9be18cea0bb64425acc217405f630d97.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b3d1c74e6f03cb7a609a"),
+        ObjectId("6627b3d1c74e6f03cb7a609d"),
+        ObjectId("6627b3d1c74e6f03cb7a60a0"),
+        ObjectId("6627b3d1c74e6f03cb7a60a3"),
+        ObjectId("6627b3d1c74e6f03cb7a60a6")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b74dc74e6f03cb7a60be"),
+    "name" : "Xanh",
+    "imageName" : "93169000-1_9a652d61df4348d496a29cdcbabeda34.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b74dc74e6f03cb7a60bf"),
+        ObjectId("6627b74dc74e6f03cb7a60c2"),
+        ObjectId("6627b74dc74e6f03cb7a60c5"),
+        ObjectId("6627b74dc74e6f03cb7a60c8"),
+        ObjectId("6627b74dc74e6f03cb7a60cb")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627b74dc74e6f03cb7a60cf"),
+    "name" : "Cam nhạt",
+    "imageName" : "93169000-7_5027cb8a53564a85b1bcf47a3d9728de.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627b74dc74e6f03cb7a60d0"),
+        ObjectId("6627b74dc74e6f03cb7a60d3"),
+        ObjectId("6627b74dc74e6f03cb7a60d6"),
+        ObjectId("6627b74dc74e6f03cb7a60d9"),
+        ObjectId("6627b74dc74e6f03cb7a60dc")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627ba47ff7b4200a8a05081"),
+    "name" : "Hồng",
+    "imageName" : "93088000-1__1__e38e267b95b74e86975836993d96dd7d.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627ba47ff7b4200a8a05082"),
+        ObjectId("6627ba47ff7b4200a8a05085"),
+        ObjectId("6627ba47ff7b4200a8a05088"),
+        ObjectId("6627ba47ff7b4200a8a0508b"),
+        ObjectId("6627ba47ff7b4200a8a0508e")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627ba47ff7b4200a8a05092"),
+    "name" : "Đỏ",
+    "imageName" : "4h1oJyTJKu.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627ba47ff7b4200a8a05093"),
+        ObjectId("6627ba47ff7b4200a8a05096"),
+        ObjectId("6627ba47ff7b4200a8a05099"),
+        ObjectId("6627ba47ff7b4200a8a0509c"),
+        ObjectId("6627ba47ff7b4200a8a0509f")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627be02ff7b4200a8a050be"),
+    "name" : "Hồng",
+    "imageName" : "83002000-2_47a9158bc8a54deab2f5c71dc3da466f.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627be02ff7b4200a8a050bf"),
+        ObjectId("6627be02ff7b4200a8a050c2"),
+        ObjectId("6627be02ff7b4200a8a050c5"),
+        ObjectId("6627be02ff7b4200a8a050c8"),
+        ObjectId("6627be02ff7b4200a8a050cb")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627be02ff7b4200a8a050cf"),
+    "name" : "Đỏ",
+    "imageName" : "83002000-1_b73635a627204d0aa1fed04b3fc8c86a.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627be02ff7b4200a8a050d0"),
+        ObjectId("6627be02ff7b4200a8a050d3"),
+        ObjectId("6627be02ff7b4200a8a050d6"),
+        ObjectId("6627be02ff7b4200a8a050d9"),
+        ObjectId("6627be02ff7b4200a8a050dc")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627c7d4ff7b4200a8a0510e"),
+    "name" : "Kem",
+    "imageName" : "83041000-3_b2351a792b544a14bea8505111b355dd.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627c7d4ff7b4200a8a0510f"),
+        ObjectId("6627c7d4ff7b4200a8a05112"),
+        ObjectId("6627c7d4ff7b4200a8a05115"),
+        ObjectId("6627c7d4ff7b4200a8a05118"),
+        ObjectId("6627c7d4ff7b4200a8a0511b")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6627c7d4ff7b4200a8a0511f"),
+    "name" : "Đen",
+    "imageName" : "83041000-0_d6abd6195f454c4c92169dd70220fdc7.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6627c7d4ff7b4200a8a05120"),
+        ObjectId("6627c7d4ff7b4200a8a05123"),
+        ObjectId("6627c7d4ff7b4200a8a05126"),
+        ObjectId("6627c7d4ff7b4200a8a05129"),
+        ObjectId("6627c7d4ff7b4200a8a0512c")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b53e4ad72006e8eca83e6"),
+    "name" : "Hồng",
+    "imageName" : "92639-1_3f33cdc4b8a44a4c993f25b2231b76d2.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b53e4ad72006e8eca83e7"),
+        ObjectId("662b53e4ad72006e8eca83ea"),
+        ObjectId("662b53e4ad72006e8eca83ed"),
+        ObjectId("662b53e4ad72006e8eca83f0"),
+        ObjectId("662b53e4ad72006e8eca83f3")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b53e4ad72006e8eca83f7"),
+    "name" : "Tím",
+    "imageName" : "92639-1_3f33cdc4b8a44a4c993f25b2231b76d2.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b53e4ad72006e8eca83f8"),
+        ObjectId("662b53e4ad72006e8eca83fb"),
+        ObjectId("662b53e4ad72006e8eca83fe"),
+        ObjectId("662b53e4ad72006e8eca8401"),
+        ObjectId("662b53e4ad72006e8eca8404")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b5528ad72006e8eca860d"),
+    "name" : "Trắng",
+    "imageName" : "55001124-1_cbf532461879477a9e7bfaee7ac18e19.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b5528ad72006e8eca860e"),
+        ObjectId("662b5528ad72006e8eca8611"),
+        ObjectId("662b5528ad72006e8eca8614"),
+        ObjectId("662b5528ad72006e8eca8617"),
+        ObjectId("662b5528ad72006e8eca861a")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b5528ad72006e8eca861e"),
+    "name" : "Hồng",
+    "imageName" : "55001124-0_25aceb18d5284415b65d2075bc2ddbc1.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b5528ad72006e8eca861f"),
+        ObjectId("662b5528ad72006e8eca8622"),
+        ObjectId("662b5528ad72006e8eca8625"),
+        ObjectId("662b5528ad72006e8eca8628"),
+        ObjectId("662b5528ad72006e8eca862b")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b5785ad72006e8eca8853"),
+    "name" : "Đỏ",
+    "imageName" : "92932000-0_d633f6da650e4205a0f3b56ea53fd0b6.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b5785ad72006e8eca8854"),
+        ObjectId("662b5785ad72006e8eca8857"),
+        ObjectId("662b5785ad72006e8eca885a"),
+        ObjectId("662b5785ad72006e8eca885d"),
+        ObjectId("662b5785ad72006e8eca8860")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b5785ad72006e8eca8864"),
+    "name" : "Vàng",
+    "imageName" : "92932-1_7be2a3a302b64193b93ede5134af5136.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b5785ad72006e8eca8865"),
+        ObjectId("662b5785ad72006e8eca8868"),
+        ObjectId("662b5785ad72006e8eca886b"),
+        ObjectId("662b5785ad72006e8eca886e"),
+        ObjectId("662b5785ad72006e8eca8871")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b59ebad72006e8eca8aba"),
+    "name" : "Xanh ngọc",
+    "imageName" : "950007241-0_d056b6a3e4ef4f4d893f4a791a34d80b.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b59ebad72006e8eca8abb"),
+        ObjectId("662b59ebad72006e8eca8abe"),
+        ObjectId("662b59ebad72006e8eca8ac1"),
+        ObjectId("662b59ebad72006e8eca8ac4"),
+        ObjectId("662b59ebad72006e8eca8ac7")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("662b59ebad72006e8eca8acb"),
+    "name" : "Vàng",
+    "imageName" : "950007241-4_42d6b48581474c9d890896523178959c.png",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("662b59ebad72006e8eca8acc"),
+        ObjectId("662b59ebad72006e8eca8acf"),
+        ObjectId("662b59ebad72006e8eca8ad2"),
+        ObjectId("662b59ebad72006e8eca8ad5"),
+        ObjectId("662b59ebad72006e8eca8ad8")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66435b735760504a00311db6"),
+    "name" : "Trắng",
+    "imageName" : "4_copy_9b89a3b72faa44f1b494e613cbf55419.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66435b735760504a00311db7"),
+        ObjectId("66435b735760504a00311dba"),
+        ObjectId("66435b735760504a00311dbd"),
+        ObjectId("66435b735760504a00311dc0"),
+        ObjectId("66435b735760504a00311dc3"),
+        ObjectId("66435b735760504a00311dc6")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66435b735760504a00311dca"),
+    "name" : "Tím",
+    "imageName" : "3_copy_0126ddd30da94162b99108baa2b04036.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66435b735760504a00311dcb"),
+        ObjectId("66435b735760504a00311dce"),
+        ObjectId("66435b735760504a00311dd1"),
+        ObjectId("66435b735760504a00311dd4"),
+        ObjectId("66435b735760504a00311dd7"),
+        ObjectId("66435b735760504a00311dda")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664362da5760504a00312b43"),
+    "name" : "Hồng",
+    "imageName" : "550015-1_e82d6b6a50f14ff1b4e40db5cdca5c0e.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664362da5760504a00312b44"),
+        ObjectId("664362da5760504a00312b47"),
+        ObjectId("664362da5760504a00312b4a"),
+        ObjectId("664362da5760504a00312b4d"),
+        ObjectId("664362da5760504a00312b50"),
+        ObjectId("664362da5760504a00312b53")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664362da5760504a00312b57"),
+    "name" : "Đen",
+    "imageName" : "550015-0_3d5397820eea4801955ba82275533426.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664362da5760504a00312b58"),
+        ObjectId("664362da5760504a00312b5b"),
+        ObjectId("664362da5760504a00312b5e"),
+        ObjectId("664362da5760504a00312b61"),
+        ObjectId("664362da5760504a00312b64"),
+        ObjectId("664362da5760504a00312b67")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6643648b5760504a00312ba2"),
+    "name" : "Trắng",
+    "imageName" : "38_copy_680957929bf54aaa91a62f2737876460.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6643648b5760504a00312ba3"),
+        ObjectId("6643648b5760504a00312ba6"),
+        ObjectId("6643648b5760504a00312ba9")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6643648b5760504a00312bad"),
+    "name" : "Hồng",
+    "imageName" : "37_copy_c8a1458df4804db4b0557d55ed323a98.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6643648b5760504a00312bae"),
+        ObjectId("6643648b5760504a00312bb1"),
+        ObjectId("6643648b5760504a00312bb4")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664365cf5760504a00312bf0"),
+    "name" : "Trắng",
+    "imageName" : "83037000-4_d2723fea27ed47c4a5fd8751e7410014.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664365cf5760504a00312bf1"),
+        ObjectId("664365cf5760504a00312bf4"),
+        ObjectId("664365cf5760504a00312bf7"),
+        ObjectId("664365cf5760504a00312bfa"),
+        ObjectId("664365cf5760504a00312bfd")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664365cf5760504a00312c01"),
+    "name" : "Hồng",
+    "imageName" : "83037000-0_141d587493f349f3a97c723a3693035c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664365cf5760504a00312c02"),
+        ObjectId("664365cf5760504a00312c05"),
+        ObjectId("664365cf5760504a00312c08"),
+        ObjectId("664365cf5760504a00312c0b"),
+        ObjectId("664365cf5760504a00312c0e")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664366e05760504a00312c4b"),
+    "name" : "Đỏ",
+    "imageName" : "83029000-0_14eb899a73bb4b319b1a27952e18f93b.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664366e05760504a00312c4c"),
+        ObjectId("664366e05760504a00312c4f"),
+        ObjectId("664366e05760504a00312c52"),
+        ObjectId("664366e05760504a00312c55"),
+        ObjectId("664366e05760504a00312c58")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664366e05760504a00312c5c"),
+    "name" : "Trắng",
+    "imageName" : "83029000-2_68564509a53d41d59b454e4762c1f9b4.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664366e05760504a00312c5d"),
+        ObjectId("664366e05760504a00312c60"),
+        ObjectId("664366e05760504a00312c63"),
+        ObjectId("664366e05760504a00312c66"),
+        ObjectId("664366e05760504a00312c69")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664368bb5760504a00312caa"),
+    "name" : "Hồng",
+    "imageName" : "83010000-4_e90f421166e149c88837dc097bba2cef_1024x1024.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664368bb5760504a00312cab"),
+        ObjectId("664368bb5760504a00312cae"),
+        ObjectId("664368bb5760504a00312cb1"),
+        ObjectId("664368bb5760504a00312cb4"),
+        ObjectId("664368bb5760504a00312cb7")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664368bb5760504a00312cbb"),
+    "name" : "Tím",
+    "imageName" : "83010000-0_fe88f7e3fd124503b22b34aa4883cef6.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664368bb5760504a00312cbc"),
+        ObjectId("664368bb5760504a00312cbf"),
+        ObjectId("664368bb5760504a00312cc2"),
+        ObjectId("664368bb5760504a00312cc5"),
+        ObjectId("664368bb5760504a00312cc8")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66436e265760504a00313d55"),
+    "name" : "Kem",
+    "imageName" : "92884000-8_d475a4ba20014c41a8b2a906d68cc060.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66436e265760504a00313d56"),
+        ObjectId("66436e265760504a00313d59"),
+        ObjectId("66436e265760504a00313d5c"),
+        ObjectId("66436e265760504a00313d5f"),
+        ObjectId("66436e265760504a00313d62")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66436e265760504a00313d66"),
+    "name" : "Vàng bò",
+    "imageName" : "950007241-4_42d6b48581474c9d890896523178959c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66436e265760504a00313d67"),
+        ObjectId("66436e265760504a00313d6a"),
+        ObjectId("66436e265760504a00313d6d"),
+        ObjectId("66436e265760504a00313d70"),
+        ObjectId("66436e265760504a00313d73")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66436e265760504a00313d77"),
+    "name" : "Hồng",
+    "imageName" : "92884000-5_0db3031d219f4ed5a33d405c31a51f54.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66436e265760504a00313d78"),
+        ObjectId("66436e265760504a00313d7b"),
+        ObjectId("66436e265760504a00313d7e"),
+        ObjectId("66436e265760504a00313d81"),
+        ObjectId("66436e265760504a00313d84")
+    ],
+    "index" : NumberInt(2),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66436f515760504a00313dc4"),
+    "name" : "Hồng nhạt",
+    "imageName" : "92912-3_abcd92955e43448f9d102712bf0c6604.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66436f515760504a00313dc5"),
+        ObjectId("66436f515760504a00313dc8"),
+        ObjectId("66436f515760504a00313dcb"),
+        ObjectId("66436f515760504a00313dce"),
+        ObjectId("66436f515760504a00313dd1")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66436f515760504a00313dd5"),
+    "name" : "Hồng đậm",
+    "imageName" : "92912-1_1a7d9cf838d7426aaf3f4b6bd8406b3d.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66436f515760504a00313dd6"),
+        ObjectId("66436f515760504a00313dd9"),
+        ObjectId("66436f515760504a00313ddc"),
+        ObjectId("66436f515760504a00313ddf"),
+        ObjectId("66436f515760504a00313de2")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664372b85760504a00314b64"),
+    "name" : "Trắng",
+    "imageName" : "93192000-1_13df24d413f2405eb98b05d2b4aadb7b.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664372b85760504a00314b65"),
+        ObjectId("664372b85760504a00314b68"),
+        ObjectId("664372b85760504a00314b6b"),
+        ObjectId("664372b85760504a00314b6e"),
+        ObjectId("664372b85760504a00314b71")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664372b85760504a00314b75"),
+    "name" : "Đỏ",
+    "imageName" : "93192000-3_b4af4bfc3eba4c829044b66f60a00b8e.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664372b85760504a00314b76"),
+        ObjectId("664372b85760504a00314b79"),
+        ObjectId("664372b85760504a00314b7c"),
+        ObjectId("664372b85760504a00314b7f"),
+        ObjectId("664372b85760504a00314b82")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664376625760504a00315915"),
+    "name" : "Tím",
+    "imageName" : "57580000-1_9ad4fdd561c5478ba21dd446a07e9e62.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664376625760504a00315916"),
+        ObjectId("664376625760504a00315919"),
+        ObjectId("664376625760504a0031591c"),
+        ObjectId("664376625760504a0031591f"),
+        ObjectId("664376625760504a00315922")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664376625760504a00315926"),
+    "name" : "Hồng",
+    "imageName" : "57580000-7_2e011fac78404b53951b6beb3a847e8d.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664376625760504a00315927"),
+        ObjectId("664376625760504a0031592a"),
+        ObjectId("664376625760504a0031592d"),
+        ObjectId("664376625760504a00315930"),
+        ObjectId("664376625760504a00315933")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644185422bd171d1209d290"),
+    "name" : "Hồng",
+    "imageName" : "1_e27b453ce93848dab12e529bdcb7e47e.jpg",
+    "price" : NumberInt(300000),
+    "stock" : NumberInt(97),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(315000),
+    "newVariant1Price" : NumberInt(315000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644185422bd171d1209d292"),
+    "name" : "Xanh ngọc",
+    "imageName" : "5_0df6b4f12320407b841a112ca499b297.jpg",
+    "price" : NumberInt(300000),
+    "stock" : NumberInt(91),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(315000),
+    "newVariant1Price" : NumberInt(315000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644191f22bd171d1209d2de"),
+    "name" : "Hồng",
+    "imageName" : "33032000-0_9883923930e94eb29c9a524687a5ae33.jpg",
+    "price" : NumberInt(350000),
+    "stock" : NumberInt(96),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(385000),
+    "newVariant1Price" : NumberInt(365750),
+    "netProfit" : NumberInt(15750),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644191f22bd171d1209d2e0"),
+    "name" : "Xanh ngọc",
+    "imageName" : "33031000-0_88d1dab7f48946ed8f4556d085a2381c.jpg",
+    "price" : NumberInt(350000),
+    "stock" : NumberInt(97),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(385000),
+    "newVariant1Price" : NumberInt(365750),
+    "netProfit" : NumberInt(15750),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664419fb22bd171d1209e078"),
+    "name" : "Xanh đậm",
+    "imageName" : "1_a2f140f1ba55443a8d181d59b190f79e_1024x1024.jpg",
+    "price" : NumberInt(400000),
+    "stock" : NumberInt(116),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(440000),
+    "newVariant1Price" : NumberInt(418000),
+    "netProfit" : NumberInt(18000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664419fb22bd171d1209e07a"),
+    "name" : "Đỏ",
+    "imageName" : "2_a48982a0403e446891d21dc11ad8e7c2.jpg",
+    "price" : NumberInt(400000),
+    "stock" : NumberInt(115),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(440000),
+    "newVariant1Price" : NumberInt(418000),
+    "netProfit" : NumberInt(18000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66441d8b22bd171d1209e0be"),
+    "name" : "Xanh biển",
+    "imageName" : "5783__2__8b3f482e16f440609ade8daf63d541b1.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66441d8b22bd171d1209e0bf"),
+        ObjectId("66441d8b22bd171d1209e0c2"),
+        ObjectId("66441d8b22bd171d1209e0c5"),
+        ObjectId("66441d8b22bd171d1209e0c8")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66441d8b22bd171d1209e0cc"),
+    "name" : "Trắng",
+    "imageName" : "57830000-0_d00aa33cafe74658b50280078da7089d_77303e2616e74a5188df774678e5e456.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66441d8b22bd171d1209e0cd"),
+        ObjectId("66441d8b22bd171d1209e0d0"),
+        ObjectId("66441d8b22bd171d1209e0d3"),
+        ObjectId("66441d8b22bd171d1209e0d6")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66441eb422bd171d1209e123"),
+    "name" : "Xanh biển",
+    "imageName" : "500006-0_795d7facd91f4dc2bb149163f472b183.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66441eb422bd171d1209e124"),
+        ObjectId("66441eb422bd171d1209e127"),
+        ObjectId("66441eb422bd171d1209e12a"),
+        ObjectId("66441eb422bd171d1209e12d"),
+        ObjectId("66441eb422bd171d1209e130")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66441eb422bd171d1209e134"),
+    "name" : "Trắng",
+    "imageName" : "500006-1_6e7317530fa3421094796dd1cdf282e2.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66441eb422bd171d1209e135"),
+        ObjectId("66441eb422bd171d1209e138"),
+        ObjectId("66441eb422bd171d1209e13b"),
+        ObjectId("66441eb422bd171d1209e13e"),
+        ObjectId("66441eb422bd171d1209e141")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644209022bd171d1209e189"),
+    "name" : "Trắng",
+    "imageName" : "50100124-1_7c26d57643dc4082a8bb5de13c7690c4.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644209022bd171d1209e18a"),
+        ObjectId("6644209022bd171d1209e18d"),
+        ObjectId("6644209022bd171d1209e190"),
+        ObjectId("6644209022bd171d1209e193")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644209022bd171d1209e197"),
+    "name" : "Xanh biển",
+    "imageName" : "50100124-0_3292d4c70cd44a3a8ebd3f6287090fdd.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644209022bd171d1209e198"),
+        ObjectId("6644209022bd171d1209e19b"),
+        ObjectId("6644209022bd171d1209e19e"),
+        ObjectId("6644209022bd171d1209e1a1")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664421ea22bd171d1209ef54"),
+    "name" : "Xanh",
+    "imageName" : "5678__5__b82d55e8ae434c0cb641ecc0c164368f.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664421ea22bd171d1209ef55"),
+        ObjectId("664421ea22bd171d1209ef58"),
+        ObjectId("664421ea22bd171d1209ef5b"),
+        ObjectId("664421ea22bd171d1209ef5e"),
+        ObjectId("664421ea22bd171d1209ef61"),
+        ObjectId("664421ea22bd171d1209ef64")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664421ea22bd171d1209ef68"),
+    "name" : "Đỏ",
+    "imageName" : "5678__1__f5bd1a8bafb14011a643bde8c5c7b1ce.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664421ea22bd171d1209ef69"),
+        ObjectId("664421ea22bd171d1209ef6c"),
+        ObjectId("664421ea22bd171d1209ef6f"),
+        ObjectId("664421ea22bd171d1209ef72"),
+        ObjectId("664421ea22bd171d1209ef75"),
+        ObjectId("664421ea22bd171d1209ef78")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644262722bd171d1209efc0"),
+    "name" : "Trắng",
+    "imageName" : "82038__3__2a44ef380a3041159901b945d946b715.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644262722bd171d1209efc1"),
+        ObjectId("6644262722bd171d1209efc4"),
+        ObjectId("6644262722bd171d1209efc7"),
+        ObjectId("6644262722bd171d1209efca"),
+        ObjectId("6644262722bd171d1209efcd")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644262722bd171d1209efd1"),
+    "name" : "Xanh",
+    "imageName" : "82038_4d02305e8d3142b493c1b55e8ad4a30e.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644262722bd171d1209efd2"),
+        ObjectId("6644262722bd171d1209efd5"),
+        ObjectId("6644262722bd171d1209efd8"),
+        ObjectId("6644262722bd171d1209efdb"),
+        ObjectId("6644262722bd171d1209efde")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644262722bd171d1209efe2"),
+    "name" : "Xanh cổ vịt",
+    "imageName" : "82038__2__185f1b3a9ea74c4484bc0789c5dc656c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644262722bd171d1209efe3"),
+        ObjectId("6644262722bd171d1209efe6"),
+        ObjectId("6644262722bd171d1209efe9"),
+        ObjectId("6644262722bd171d1209efec"),
+        ObjectId("6644262722bd171d1209efef")
+    ],
+    "index" : NumberInt(2),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644272122bd171d1209fdad"),
+    "name" : "Đen",
+    "imageName" : "42_copy_7a297da7aae84ca09dcb5d5c43496b4c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644272122bd171d1209fdae"),
+        ObjectId("6644272122bd171d1209fdb1"),
+        ObjectId("6644272122bd171d1209fdb4"),
+        ObjectId("6644272122bd171d1209fdb7")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644272122bd171d1209fdbb"),
+    "name" : "Trắng",
+    "imageName" : "43_copy_6de08a7d9f90442bad5ffa6562c71d0a.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644272122bd171d1209fdbc"),
+        ObjectId("6644272122bd171d1209fdbf"),
+        ObjectId("6644272122bd171d1209fdc2"),
+        ObjectId("6644272122bd171d1209fdc5")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644298122bd171d120a30f9"),
+    "name" : "Tím than",
+    "imageName" : "93764000-7_57c80887ab9843ffbb202c2ed6feb6f9.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644298122bd171d120a30fa"),
+        ObjectId("6644298122bd171d120a30fd"),
+        ObjectId("6644298122bd171d120a3100"),
+        ObjectId("6644298122bd171d120a3103"),
+        ObjectId("6644298122bd171d120a3106")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644298122bd171d120a310a"),
+    "name" : "Xanh rêu",
+    "imageName" : "93764000-1_17ebabf9e7a0427a82ee9a78aa713bf1.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644298122bd171d120a310b"),
+        ObjectId("6644298122bd171d120a310e"),
+        ObjectId("6644298122bd171d120a3111"),
+        ObjectId("6644298122bd171d120a3114"),
+        ObjectId("6644298122bd171d120a3117")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644298122bd171d120a311b"),
+    "name" : "Xám",
+    "imageName" : "93764000-4_7fb372f9195744658f9df79be15cfd4a.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644298122bd171d120a311c"),
+        ObjectId("6644298122bd171d120a311f"),
+        ObjectId("6644298122bd171d120a3122"),
+        ObjectId("6644298122bd171d120a3125"),
+        ObjectId("6644298122bd171d120a3128")
+    ],
+    "index" : NumberInt(2),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644619b22bd171d120a3ef2"),
+    "name" : "Xanh",
+    "imageName" : "83024000-0_1a87edf86df642f582384a3a936d5a91.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644619b22bd171d120a3ef3"),
+        ObjectId("6644619b22bd171d120a3ef6"),
+        ObjectId("6644619b22bd171d120a3ef9"),
+        ObjectId("6644619b22bd171d120a3efc"),
+        ObjectId("6644619b22bd171d120a3eff"),
+        ObjectId("6644619b22bd171d120a3f02")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644619b22bd171d120a3f06"),
+    "name" : "Tàn",
+    "imageName" : "83024000-1_bda88c56b8cd402dbe714da1db36c331.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644619b22bd171d120a3f07"),
+        ObjectId("6644619b22bd171d120a3f0a"),
+        ObjectId("6644619b22bd171d120a3f0d"),
+        ObjectId("6644619b22bd171d120a3f10"),
+        ObjectId("6644619b22bd171d120a3f13"),
+        ObjectId("6644619b22bd171d120a3f16")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644627522bd171d120a3f63"),
+    "name" : "Đen",
+    "imageName" : "93306000-3_47b98ef6411241ada2a5f5ebf1a9da7e.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644627522bd171d120a3f64"),
+        ObjectId("6644627522bd171d120a3f67"),
+        ObjectId("6644627522bd171d120a3f6a"),
+        ObjectId("6644627522bd171d120a3f6d"),
+        ObjectId("6644627522bd171d120a3f70")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644627522bd171d120a3f74"),
+    "name" : "Xanh Rêu",
+    "imageName" : "93306000-1_5d2ba8e3f52c4a93a80517fc1bc4dee2.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644627522bd171d120a3f75"),
+        ObjectId("6644627522bd171d120a3f78"),
+        ObjectId("6644627522bd171d120a3f7b"),
+        ObjectId("6644627522bd171d120a3f7e"),
+        ObjectId("6644627522bd171d120a3f81")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644647222bd171d120a3fd0"),
+    "name" : "Xanh cổ vịt",
+    "imageName" : "93004000-5_1772c8fc8ce740c98012ff48419e39a7.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644647222bd171d120a3fd1"),
+        ObjectId("6644647222bd171d120a3fd4"),
+        ObjectId("6644647222bd171d120a3fd7"),
+        ObjectId("6644647222bd171d120a3fda"),
+        ObjectId("6644647222bd171d120a3fdd")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644647222bd171d120a3fe1"),
+    "name" : "Nâu",
+    "imageName" : "93004000-1_fbd825c9218e471fafb18779b4fdaa1c.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644647222bd171d120a3fe2"),
+        ObjectId("6644647222bd171d120a3fe5"),
+        ObjectId("6644647222bd171d120a3fe8"),
+        ObjectId("6644647222bd171d120a3feb"),
+        ObjectId("6644647222bd171d120a3fee")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644647222bd171d120a3ff2"),
+    "name" : "Xám",
+    "imageName" : "93004000-8_7bd42c36b8b64b62b5f4fa20018d7e97.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644647222bd171d120a3ff3"),
+        ObjectId("6644647222bd171d120a3ff6"),
+        ObjectId("6644647222bd171d120a3ff9"),
+        ObjectId("6644647222bd171d120a3ffc"),
+        ObjectId("6644647222bd171d120a3fff")
+    ],
+    "index" : NumberInt(2),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644a727ebe9fee4afdf6f98"),
+    "name" : "Hồng",
+    "imageName" : "92888-2__1__ece064789da04b5d90841008c4af4482.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644a727ebe9fee4afdf6f99"),
+        ObjectId("6644a727ebe9fee4afdf6f9c"),
+        ObjectId("6644a727ebe9fee4afdf6f9f"),
+        ObjectId("6644a727ebe9fee4afdf6fa2"),
+        ObjectId("6644a727ebe9fee4afdf6fa5"),
+        ObjectId("6644a727ebe9fee4afdf6fa8")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644a727ebe9fee4afdf6fac"),
+    "name" : "Kem",
+    "imageName" : "92888-1_b32f19223fc34cae835e568350e153ab.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644a727ebe9fee4afdf6fad"),
+        ObjectId("6644a727ebe9fee4afdf6fb0"),
+        ObjectId("6644a727ebe9fee4afdf6fb3"),
+        ObjectId("6644a727ebe9fee4afdf6fb6"),
+        ObjectId("6644a727ebe9fee4afdf6fb9"),
+        ObjectId("6644a727ebe9fee4afdf6fbc")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644a847ebe9fee4afdf7019"),
+    "name" : "Đen",
+    "imageName" : "93248000-1_51c385aa3de446d8b3911896923fa541.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644a847ebe9fee4afdf701a"),
+        ObjectId("6644a847ebe9fee4afdf701d"),
+        ObjectId("6644a847ebe9fee4afdf7020"),
+        ObjectId("6644a847ebe9fee4afdf7023"),
+        ObjectId("6644a847ebe9fee4afdf7026"),
+        ObjectId("6644a847ebe9fee4afdf7029")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644a847ebe9fee4afdf702d"),
+    "name" : "Hồng",
+    "imageName" : "93248000-5_2f1ea20816fb45cf89638c48e14ba4d8.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644a847ebe9fee4afdf702e"),
+        ObjectId("6644a847ebe9fee4afdf7031"),
+        ObjectId("6644a847ebe9fee4afdf7034"),
+        ObjectId("6644a847ebe9fee4afdf7037"),
+        ObjectId("6644a847ebe9fee4afdf703a"),
+        ObjectId("6644a847ebe9fee4afdf703d")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644af6debe9fee4afdf7d05"),
+    "name" : "Đen",
+    "imageName" : "92767-1_12706468129d49ad832119a09b16f5fb.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644af6debe9fee4afdf7d06"),
+        ObjectId("6644af6debe9fee4afdf7d09"),
+        ObjectId("6644af6debe9fee4afdf7d0c"),
+        ObjectId("6644af6debe9fee4afdf7d0f"),
+        ObjectId("6644af6debe9fee4afdf7d12")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644af6debe9fee4afdf7d16"),
+    "name" : "Xanh lá cây",
+    "imageName" : "92765-3_eb957020f6b746988593df584c286f4f.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644af6debe9fee4afdf7d17"),
+        ObjectId("6644af6debe9fee4afdf7d1a"),
+        ObjectId("6644af6debe9fee4afdf7d1d"),
+        ObjectId("6644af6debe9fee4afdf7d20"),
+        ObjectId("6644af6debe9fee4afdf7d23")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644b059ebe9fee4afdf7d76"),
+    "name" : "10 tuổi _ 27-30kg",
+    "imageName" : "93738000-1_e787bd8af228410fbc71548081997876.jpg",
+    "price" : NumberInt(200000),
+    "stock" : NumberInt(98),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(210000),
+    "newVariant1Price" : NumberInt(210000),
+    "netProfit" : NumberInt(10000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644b059ebe9fee4afdf7d78"),
+    "name" : "12 tuổi _ 32-34kg",
+    "imageName" : "93738000-2_2f1e25dd6c9744d3833e4a7db91a5e19.jpg",
+    "price" : NumberInt(200000),
+    "stock" : NumberInt(98),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(210000),
+    "newVariant1Price" : NumberInt(210000),
+    "netProfit" : NumberInt(10000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644b059ebe9fee4afdf7d7a"),
+    "name" : "14 tuổi _ 35-37kg",
+    "imageName" : "93738000-4_4a7de3d25eb642b395f53802e226daf1.jpg",
+    "price" : NumberInt(210000),
+    "stock" : NumberInt(101),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(2),
+    "originalPrice" : NumberInt(220500),
+    "newVariant1Price" : NumberInt(220500),
+    "netProfit" : NumberInt(10500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644b34bebe9fee4afdf7dd7"),
+    "name" : "Đen",
+    "imageName" : "93262000-1_b9991cc7599240c7bbb8e6dccc927c85.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644b34bebe9fee4afdf7dd8"),
+        ObjectId("6644b34bebe9fee4afdf7ddb"),
+        ObjectId("6644b34bebe9fee4afdf7dde"),
+        ObjectId("6644b34bebe9fee4afdf7de1"),
+        ObjectId("6644b34bebe9fee4afdf7de4")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644b34bebe9fee4afdf7de8"),
+    "name" : "Hồng",
+    "imageName" : "93262000-3_1fa596510c7c4b74a69ae1aac869610b.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644b34bebe9fee4afdf7de9"),
+        ObjectId("6644b34bebe9fee4afdf7dec"),
+        ObjectId("6644b34bebe9fee4afdf7def"),
+        ObjectId("6644b34bebe9fee4afdf7df2"),
+        ObjectId("6644b34bebe9fee4afdf7df5")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644bb93ebe9fee4afdf9fa9"),
+    "name" : "Đen",
+    "imageName" : "33028000-1_9017f753ebee403cb8c13eb44edf8daa.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644bb93ebe9fee4afdf9faa"),
+        ObjectId("6644bb93ebe9fee4afdf9fad"),
+        ObjectId("6644bb93ebe9fee4afdf9fb0"),
+        ObjectId("6644bb93ebe9fee4afdf9fb3"),
+        ObjectId("6644bb93ebe9fee4afdf9fb6")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644bb93ebe9fee4afdf9fba"),
+    "name" : "Xám",
+    "imageName" : "33028000-5_cb6b05ec2dff456ca62964575031383b.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644bb93ebe9fee4afdf9fbb"),
+        ObjectId("6644bb93ebe9fee4afdf9fbe"),
+        ObjectId("6644bb93ebe9fee4afdf9fc1"),
+        ObjectId("6644bb93ebe9fee4afdf9fc4"),
+        ObjectId("6644bb93ebe9fee4afdf9fc7")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644bc9debe9fee4afdfad2e"),
+    "name" : "Xanh rêu",
+    "imageName" : "22034-7_dca0c2f18c624581b5ce3792c517fa34.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644bc9debe9fee4afdfad2f"),
+        ObjectId("6644bc9debe9fee4afdfad32"),
+        ObjectId("6644bc9debe9fee4afdfad35"),
+        ObjectId("6644bc9debe9fee4afdfad38"),
+        ObjectId("6644bc9debe9fee4afdfad3b")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6644bc9debe9fee4afdfad3f"),
+    "name" : "Tím than",
+    "imageName" : "22034-2_e31a8fcac6914c2798f96ed7d297f1c2.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6644bc9debe9fee4afdfad40"),
+        ObjectId("6644bc9debe9fee4afdfad43"),
+        ObjectId("6644bc9debe9fee4afdfad46"),
+        ObjectId("6644bc9debe9fee4afdfad49"),
+        ObjectId("6644bc9debe9fee4afdfad4c")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c4e29f332a40d4faa0a1"),
+    "name" : "Hồng - gắn nơ",
+    "imageName" : "33018-1_12c70cb164924db2803e13ef01206577.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c4e29f332a40d4faa0a2"),
+        ObjectId("6646c4e29f332a40d4faa0a5"),
+        ObjectId("6646c4e29f332a40d4faa0a8"),
+        ObjectId("6646c4e29f332a40d4faa0ab"),
+        ObjectId("6646c4e29f332a40d4faa0ae")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c4e29f332a40d4faa0b2"),
+    "name" : "Kem - Gắn nơ",
+    "imageName" : "33018-5_581ed89096c74c5bb5ebcbfd4f4b70cb.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c4e29f332a40d4faa0b3"),
+        ObjectId("6646c4e29f332a40d4faa0b6"),
+        ObjectId("6646c4e29f332a40d4faa0b9"),
+        ObjectId("6646c4e29f332a40d4faa0bc"),
+        ObjectId("6646c4e29f332a40d4faa0bf")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c6679f332a40d4faa11b"),
+    "name" : "Hồng - Gắn nơ",
+    "imageName" : "33021-1_60a238321f154241b52e75b0896878eb.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c6679f332a40d4faa11c"),
+        ObjectId("6646c6679f332a40d4faa11f"),
+        ObjectId("6646c6679f332a40d4faa122"),
+        ObjectId("6646c6679f332a40d4faa125"),
+        ObjectId("6646c6679f332a40d4faa128")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c6679f332a40d4faa12c"),
+    "name" : "Trắng - Gắn nơ",
+    "imageName" : "33021-5_3a474416cd034578bb6b2572a1477d18.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c6679f332a40d4faa12d"),
+        ObjectId("6646c6679f332a40d4faa130"),
+        ObjectId("6646c6679f332a40d4faa133"),
+        ObjectId("6646c6679f332a40d4faa136"),
+        ObjectId("6646c6679f332a40d4faa139")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c7669f332a40d4faa196"),
+    "name" : "Trắng - Trái tim",
+    "imageName" : "33023-1_75ecadf0ed2d41ff8985dc9a5a8e9de5.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c7669f332a40d4faa197"),
+        ObjectId("6646c7669f332a40d4faa19a"),
+        ObjectId("6646c7669f332a40d4faa19d"),
+        ObjectId("6646c7669f332a40d4faa1a0"),
+        ObjectId("6646c7669f332a40d4faa1a3")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c7669f332a40d4faa1a7"),
+    "name" : "Hồng - Trái tim",
+    "imageName" : "33023-5_50236f051ba7493986999e3c5b7364aa.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c7669f332a40d4faa1a8"),
+        ObjectId("6646c7669f332a40d4faa1ab"),
+        ObjectId("6646c7669f332a40d4faa1ae"),
+        ObjectId("6646c7669f332a40d4faa1b1"),
+        ObjectId("6646c7669f332a40d4faa1b4")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c94b9f332a40d4faaeb6"),
+    "name" : "Tím than",
+    "imageName" : "83034000-0_5bbc1b59ed194ce6a752854114aff207.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c94b9f332a40d4faaeb7"),
+        ObjectId("6646c94b9f332a40d4faaeba"),
+        ObjectId("6646c94b9f332a40d4faaebd"),
+        ObjectId("6646c94b9f332a40d4faaec0"),
+        ObjectId("6646c94b9f332a40d4faaec3")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646c94b9f332a40d4faaec7"),
+    "name" : "Xanh",
+    "imageName" : "83034000-4_f5efddc971d642e4b8f5de45acd9ad0b.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646c94b9f332a40d4faaec8"),
+        ObjectId("6646c94b9f332a40d4faaecb"),
+        ObjectId("6646c94b9f332a40d4faaece"),
+        ObjectId("6646c94b9f332a40d4faaed1"),
+        ObjectId("6646c94b9f332a40d4faaed4")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646cacf9f332a40d4faaf3f"),
+    "name" : "Xanh",
+    "imageName" : "57560000-12_0504b6b0625e4f6fad4ce0f8418113b2.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646cacf9f332a40d4faaf40"),
+        ObjectId("6646cacf9f332a40d4faaf43"),
+        ObjectId("6646cacf9f332a40d4faaf46"),
+        ObjectId("6646cacf9f332a40d4faaf49"),
+        ObjectId("6646cacf9f332a40d4faaf4c")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646cacf9f332a40d4faaf50"),
+    "name" : "Tím thán",
+    "imageName" : "57560000-8_b9322527aadd4534afd67b0088f62aca.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646cacf9f332a40d4faaf51"),
+        ObjectId("6646cacf9f332a40d4faaf54"),
+        ObjectId("6646cacf9f332a40d4faaf57"),
+        ObjectId("6646cacf9f332a40d4faaf5a"),
+        ObjectId("6646cacf9f332a40d4faaf5d")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646cc8f9f332a40d4fabc65"),
+    "name" : "Xanh Coban",
+    "imageName" : "93804000-1_6504853868784b29b09ecd6e8f7f7624.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646cc8f9f332a40d4fabc66"),
+        ObjectId("6646cc8f9f332a40d4fabc69"),
+        ObjectId("6646cc8f9f332a40d4fabc6c"),
+        ObjectId("6646cc8f9f332a40d4fabc6f"),
+        ObjectId("6646cc8f9f332a40d4fabc72")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6646cc8f9f332a40d4fabc76"),
+    "name" : "Đen",
+    "imageName" : "93804000-4_62aaa9dbfbba4be5be42d72f74ae82e2.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6646cc8f9f332a40d4fabc77"),
+        ObjectId("6646cc909f332a40d4fabc7a"),
+        ObjectId("6646cc909f332a40d4fabc7d"),
+        ObjectId("6646cc909f332a40d4fabc80"),
+        ObjectId("6646cc909f332a40d4fabc83")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664706729f332a40d4fac991"),
+    "name" : "Cam",
+    "imageName" : "5661-1_cb53f54ec2934fa68614293248c938d9.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664706729f332a40d4fac992"),
+        ObjectId("664706729f332a40d4fac995"),
+        ObjectId("664706729f332a40d4fac998"),
+        ObjectId("664706729f332a40d4fac99b"),
+        ObjectId("664706729f332a40d4fac99e")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664706729f332a40d4fac9a2"),
+    "name" : "Xanh Coban",
+    "imageName" : "5661-5_72307e91affc44eabbf23ad3e13b7200.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664706729f332a40d4fac9a3"),
+        ObjectId("664706729f332a40d4fac9a6"),
+        ObjectId("664706729f332a40d4fac9a9"),
+        ObjectId("664706729f332a40d4fac9ac"),
+        ObjectId("664706729f332a40d4fac9af")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6647076d9f332a40d4faca13"),
+    "name" : "Đen",
+    "imageName" : "92912-1_8f174019d8fc4edf94b2e9eb1af4a192.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6647076d9f332a40d4faca14"),
+        ObjectId("6647076d9f332a40d4faca17"),
+        ObjectId("6647076d9f332a40d4faca1a"),
+        ObjectId("6647076d9f332a40d4faca1d"),
+        ObjectId("6647076d9f332a40d4faca20")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6647076d9f332a40d4faca24"),
+    "name" : "Xanh",
+    "imageName" : "92912-5_15ce01edd9004bc2ad34457bf910f248.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("6647076d9f332a40d4faca25"),
+        ObjectId("6647076d9f332a40d4faca28"),
+        ObjectId("6647076d9f332a40d4faca2b"),
+        ObjectId("6647076d9f332a40d4faca2e"),
+        ObjectId("6647076d9f332a40d4faca31")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470aed9f332a40d4fad755"),
+    "name" : "10 tuổi _ 27-30kg",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(116),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470aed9f332a40d4fad757"),
+    "name" : "12 tuổi _ 32-34kg",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(96),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470aed9f332a40d4fad759"),
+    "name" : "14 tuổi _ 35-37kg",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(118),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(2),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470d089f332a40d4faef37"),
+    "name" : "Size 8: 30-33kg (140)",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(120),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470d089f332a40d4faef39"),
+    "name" : "Size 10: 34-38kg (150)",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(117),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470d089f332a40d4faef3b"),
+    "name" : "Size 12: 39-43kg (160)",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(114),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(2),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66470d089f332a40d4faef3d"),
+    "name" : "Size 14: 44-48kg (170)",
+    "imageName" : "null",
+    "price" : NumberInt(100000),
+    "stock" : NumberInt(120),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(3),
+    "originalPrice" : NumberInt(115000),
+    "newVariant1Price" : NumberInt(115000),
+    "netProfit" : NumberInt(15000),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471a309e5b7f9710d044dc"),
+    "name" : "Kẻ đỏ đen",
+    "imageName" : "download__18__04ed302c31c64cf581c167942d0f6267.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66471a309e5b7f9710d044dd"),
+        ObjectId("66471a309e5b7f9710d044e0"),
+        ObjectId("66471a309e5b7f9710d044e3"),
+        ObjectId("66471a309e5b7f9710d044e6"),
+        ObjectId("66471a309e5b7f9710d044e9")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471a309e5b7f9710d044ed"),
+    "name" : "Kẻ đỏ trắng",
+    "imageName" : "download__14__57b9f655c6654e3695b47a7a3152c318.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("66471a309e5b7f9710d044ee"),
+        ObjectId("66471a309e5b7f9710d044f1"),
+        ObjectId("66471a309e5b7f9710d044f4"),
+        ObjectId("66471a309e5b7f9710d044f7"),
+        ObjectId("66471a309e5b7f9710d044fa")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471e7c9e5b7f9710d05398"),
+    "name" : "2 tuổi _ 11-12kg",
+    "imageName" : "null",
+    "price" : NumberInt(250000),
+    "stock" : NumberInt(197),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(0),
+    "originalPrice" : NumberInt(262500),
+    "newVariant1Price" : NumberInt(262500),
+    "netProfit" : NumberInt(12500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471e7c9e5b7f9710d0539a"),
+    "name" : "3 tuổi _ 12-13kg",
+    "imageName" : "null",
+    "price" : NumberInt(250000),
+    "stock" : NumberInt(197),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(1),
+    "originalPrice" : NumberInt(262500),
+    "newVariant1Price" : NumberInt(262500),
+    "netProfit" : NumberInt(12500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471e7c9e5b7f9710d0539c"),
+    "name" : "4 tuổi _ 14-16kg",
+    "imageName" : "null",
+    "price" : NumberInt(250000),
+    "stock" : NumberInt(200),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(2),
+    "originalPrice" : NumberInt(262500),
+    "newVariant1Price" : NumberInt(262500),
+    "netProfit" : NumberInt(12500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471e7c9e5b7f9710d0539e"),
+    "name" : "5 tuổi _ 17-19kg",
+    "imageName" : "null",
+    "price" : NumberInt(250000),
+    "stock" : NumberInt(200),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(3),
+    "originalPrice" : NumberInt(262500),
+    "newVariant1Price" : NumberInt(262500),
+    "netProfit" : NumberInt(12500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66471e7c9e5b7f9710d053a0"),
+    "name" : "6 tuổi _ 19-21kg",
+    "imageName" : "null",
+    "price" : NumberInt(250000),
+    "stock" : NumberInt(200),
+    "variant2" : [
+
+    ],
+    "index" : NumberInt(4),
+    "originalPrice" : NumberInt(262500),
+    "newVariant1Price" : NumberInt(262500),
+    "netProfit" : NumberInt(12500),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664720559e5b7f9710d05485"),
+    "name" : "Trắng",
+    "imageName" : "57220000-5_c03509ead78f4f40a391cef83d71b69d.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664720559e5b7f9710d05486"),
+        ObjectId("664720559e5b7f9710d05489"),
+        ObjectId("664720559e5b7f9710d0548c"),
+        ObjectId("664720559e5b7f9710d0548f"),
+        ObjectId("664720559e5b7f9710d05492")
+    ],
+    "index" : NumberInt(0),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("664720559e5b7f9710d05496"),
+    "name" : "Xanh",
+    "imageName" : "57220000-1_2455cbd7c2c3412d87bd76431a2d8555.jpg",
+    "price" : null,
+    "stock" : null,
+    "variant2" : [
+        ObjectId("664720559e5b7f9710d05497"),
+        ObjectId("664720559e5b7f9710d0549a"),
+        ObjectId("664720559e5b7f9710d0549d"),
+        ObjectId("664720559e5b7f9710d054a0"),
+        ObjectId("664720559e5b7f9710d054a3")
+    ],
+    "index" : NumberInt(1),
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,102 @@
+{
+    "_id" : ObjectId("66694775c06dab295e8ed7a7"),
+    "rankName" : "Bronze",
+    "minPoints" : NumberInt(0),
+    "maxPoints" : NumberInt(500),
+    "description" : "Không áp dụng voucher",
+    "createDate" : "14:00 12/06/2024",
+    "modifyDate" : "14:06 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/6TkqCoE1Q3.png",
+            "name" : "6TkqCoE1Q3.png",
+            "_id" : ObjectId("66694775c06dab295e8ed7a8")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("666947abc06dab295e8ed7ac"),
+    "rankName" : "Silver",
+    "minPoints" : NumberInt(501),
+    "maxPoints" : NumberInt(1500),
+    "description" : "Nhận voucher giảm 5% cho đơn hàng từ 1000k",
+    "createDate" : "14:00 12/06/2024",
+    "modifyDate" : "14:06 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/CvefzNsfHu.png",
+            "name" : "CvefzNsfHu.png",
+            "_id" : ObjectId("666947abc06dab295e8ed7ad")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("666948cac06dab295e8ed7b1"),
+    "rankName" : "Gold",
+    "minPoints" : NumberInt(1501),
+    "maxPoints" : NumberInt(5000),
+    "description" : "Nhận voucher giảm 10% cho đơn hàng từ 2000k",
+    "createDate" : "14:05 12/06/2024",
+    "modifyDate" : "14:05 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/XOTtTV5Q0x.png",
+            "name" : "XOTtTV5Q0x.png",
+            "_id" : ObjectId("666948cac06dab295e8ed7b2")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("66694951c06dab295e8ed7c0"),
+    "rankName" : "Diamond",
+    "minPoints" : NumberInt(5001),
+    "maxPoints" : NumberInt(10000),
+    "description" : "Nhận voucher giảm 15% cho đơn hàng từ 2500k",
+    "createDate" : "14:08 12/06/2024",
+    "modifyDate" : "14:08 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/YYGgqkfPuD.png",
+            "name" : "YYGgqkfPuD.png",
+            "_id" : ObjectId("66694951c06dab295e8ed7c1")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6669497cc06dab295e8ed7c5"),
+    "rankName" : "VIP",
+    "minPoints" : NumberInt(10001),
+    "maxPoints" : NumberInt(15001),
+    "description" : "Nhận voucher giảm 30% cho đơn hàng từ 3000k",
+    "createDate" : "14:08 12/06/2024",
+    "modifyDate" : "14:08 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/mmqy5KDpQc.png",
+            "name" : "mmqy5KDpQc.png",
+            "_id" : ObjectId("6669497cc06dab295e8ed7c6")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("666949bac06dab295e8ed7ca"),
+    "rankName" : "VVIP",
+    "minPoints" : NumberInt(15001),
+    "maxPoints" : NumberInt(20000),
+    "description" : "Nhận voucher giảm 50% cho đơn hàng từ 5000k",
+    "createDate" : "14:09 12/06/2024",
+    "modifyDate" : "14:09 12/06/2024",
+    "imageRank" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/70RkwYk0ti.png",
+            "name" : "70RkwYk0ti.png",
+            "_id" : ObjectId("666949bac06dab295e8ed7cb")
+        }
+    ],
+    "__v" : NumberInt(0)
+}
