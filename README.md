@@ -1,12 +1,11 @@
 
 # Ecomerce platform API
 
-This is a API service for client UI 
-
+This is a REST API built using Node.js and Express.js for eCommerce. It provides endpoints for user authentication, product management, review management, and order management.
 
 ## Tech Stack
 
-**Client:** Next, Redux, Bootstrap
+**Client:** React, Redux
 
 **Server:** Node, Express
 
@@ -72,10 +71,4 @@ src
 
 ```bash
   npm run devStart
-```
-> Also run the UI source [here](https://github.com/VanSanh1810/E-Commerce-Platform-FE).
-
-## Authors
-
-- [@VanSanh](https://github.com/VanSanh1810)
-- [@TanPhat](https://github.com/TanPhat21242002)
+```.
