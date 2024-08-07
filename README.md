@@ -3,7 +3,7 @@
 
 This is a REST API built using Node.js and Express.js for eCommerce. It provides endpoints for user authentication, product management, brand management, category management, review management, order management,...
 
-This is a API service for client UI in this [repo]([https://github.com/VanSanh1810/E-Commerce-Platform-FE](https://github.com/songit2603/E-commerce-Website-for-Children-s-Fashion-KIDDO-FE)
+This is a API service for client UI in this [repo](https://github.com/songit2603/E-commerce-Website-for-Children-s-Fashion-KIDDO-FE)
 
 ## Tech Stack
 
